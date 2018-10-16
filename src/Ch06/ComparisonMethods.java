@@ -4,10 +4,14 @@ public class ComparisonMethods {
 
 
     public static void main(String[] args) {
+
         System.out.println(max(1, 3));
+
         System.out.println(max(2,8,3));
+
         System.out.println(perfectSquare(16));
         System.out.println(perfectSquare(7));
+
         System.out.println(totalWages(45, 12.50));
     }
 
