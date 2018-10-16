@@ -7,7 +7,7 @@ public class ComparisonMethods {
 
         System.out.println(max(1, 3));
 
-        System.out.println(max(2,8,3));
+        System.out.println(max(8,8,3));
 
         System.out.println(perfectSquare(16));
         System.out.println(perfectSquare(7));
@@ -16,7 +16,7 @@ public class ComparisonMethods {
     }
 
     private static int max(int x, int y) {
-        if (x > y) {
+        if (x >= y) {
             return x;
         } else {
             return y;
@@ -24,9 +24,9 @@ public class ComparisonMethods {
     }
 
     private static int max(int x, int y, int z) {
-        if (x > y && x > z) {
+        if (x >= y && x >= z) {
             return x;
-        } else if (y > x && y > z) {
+        } else if (y >= x && y >= z) {
             return y;
         } else {
             return z;
@@ -34,16 +34,15 @@ public class ComparisonMethods {
     }
 
     private static boolean perfectSquare(int n) {
-        double hold;
         return !(Math.sqrt((double) n) % 1 != 0);
     }
 
     private static double totalWages(double hours, double rates) {
         double wages;
         if (hours <= 40) {
-            wages = hours * rates;
+            wages = (hours * rates);
         } else {
-            wages = (40 * rates + ((hours - 40) * (rates * 1.5)));
+            wages = (40 * rates + (hours - 40) * (rates * 1.5));
         }
         return wages;
     }

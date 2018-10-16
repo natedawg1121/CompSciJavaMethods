@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="First push" />
+    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +32,16 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
           <entry key="iml" value="1" />
-          <entry key="java" value="78" />
+          <entry key="java" value="79" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -45,7 +49,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="77" />
+          <entry key="JAVA" value="78" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -54,15 +58,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="3934" />
-          <entry key="txt" value="24" />
+          <entry key="java" value="3942" />
+          <entry key="txt" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="3907" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="JAVA" value="3915" />
+          <entry key="PLAIN_TEXT" value="65" />
           <entry key="Scratch" value="27" />
         </counts>
       </usages-collector>
@@ -72,7 +76,23 @@
     <favorites_list name="Computer Science A" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
+                <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
+                <element signature="method#perfectSquare#0;class#ComparisonMethods#0" expanded="true" />
+                <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetters.java" />
         <option value="$PROJECT_DIR$/src/Ch06/Exercises/ComparisonMethods.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" />
       </list>
     </option>
   </component>
@@ -323,13 +344,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -356,6 +378,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,7 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BallonDraw2">
+  <component name="RunManager" selected="Application.ComparisonMethods">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
@@ -723,11 +746,20 @@
       <workItem from="1539614285608" duration="216000" />
       <workItem from="1539662807455" duration="969000" />
       <workItem from="1539692098712" duration="1672000" />
+      <workItem from="1539695672473" duration="843000" />
     </task>
+    <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
+      <created>1539696004590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539696004590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18815000" />
+    <option name="totallyTimeSpent" value="19658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,6 +772,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -757,7 +790,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31743422" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31630972" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -791,6 +824,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added spacing in ComparisonMethods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added spacing in ComparisonMethods" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -886,9 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="method#Wages#0;class#Wages#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,9 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <element signature="method#main#0;class#Scratch#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,30 +972,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="method#BalloonDraw2#0;class#BalloonDraw2#0" expanded="true" />
-            <element signature="method#main#0;class#BalloonDraw2#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#max#1;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#perfectSquare#0;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/ControlPanel.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/ControlPanel.class" />
     <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/Rainbow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -983,9 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="method#main#0;class#IntSwitch#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,10 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="37" selection-start-column="37" selection-end-column="37" />
-          <folding>
-            <element signature="method#main#0;class#DoubleX#0" expanded="true" />
-            <element signature="method#outputRoundedInteger#0;class#DoubleX#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,9 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="method#main#0;class#BalloonPrint#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,10 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="method#BalloonDraw#0;class#BalloonDraw#0" expanded="true" />
-            <element signature="method#main#0;class#BalloonDraw#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,8 +1127,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
-            <element signature="method#main#0;class#ComputeThis#0" expanded="true" />
+            <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#perfectSquare#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
           </folding>
         </state>
       </provider>
