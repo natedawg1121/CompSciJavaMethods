@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="First push" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Computer_Science_A$Bmi.ic" NAME="Bmi Coverage Results" MODIFIED="1539346163598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ch05.Exercises.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-698845057">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="78" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="77" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="3934" />
+          <entry key="txt" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="3907" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Scratch" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Computer Science A" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>outp</find>
+      <find>temp</find>
+      <find>alpha</find>
+      <find>prntOut</find>
+      <find>hold</find>
+      <find>..</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>prntOut</replace>
+      <replace>hold</replace>
+      <replace>backbone</replace>
+      <replace>hab</replace>
+      <replace>halt</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nathan Stewart" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Ch05/Poll/Poll.java" />
+        <option value="$PROJECT_DIR$/src/Ch05/Poll/PollDisplayPanel.java" />
+        <option value="$PROJECT_DIR$/src/Ch05/Poll/PollControlPanel.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonDraw/BalloonDraw.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/BalloonDraw.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/ControlPanel.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/RoundBalloon.java" />
+        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/SquareBalloon.java" />
+        <option value="$PROJECT_DIR$/src/Ch00/findDOW.java" />
+        <option value="$PROJECT_DIR$/src/Ch05/Exercises/DogsHumanAge.java" />
+        <option value="$PROJECT_DIR$/src/Ch00/DoubleRound.java" />
+        <option value="$PROJECT_DIR$/src/Ch00/WrapAround.java" />
+        <option value="$PROJECT_DIR$/src/ACSL/WrapAround.java" />
+        <option value="$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetter.java" />
+        <option value="$PROJECT_DIR$/src/ACSL/FirstOne/WrapAround.java" />
+        <option value="$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetters.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/Exercises/ComparisonMethods.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="4" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 10Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>Velocity</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nated\Documents\Computer Science A\src\Ch04\BalloonDraw" />
+      <recent name="C:\Users\nated\Documents\Computer Science A\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BallonDraw2">
+    <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallonDraw2" type="Application" factoryName="Application" folderName="CH04">
+      <option name="MAIN_CLASS_NAME" value="Ch04.BalloonsAllKinds.BalloonDraw2" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalloonDraw" type="Application" factoryName="Application" folderName="CH04">
+      <option name="MAIN_CLASS_NAME" value="Ch04.BalloonDraw.BalloonDraw" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalloonPrint" type="Application" factoryName="Application" folderName="CH04">
+      <option name="MAIN_CLASS_NAME" value="Ch04.BalloonDraw.BalloonPrint" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Banner" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.HelloGui.Banner" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTest" type="Application" factoryName="Application" folderName="CH04">
+      <option name="MAIN_CLASS_NAME" value="Ch04.Exercises.BookTest" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparisonMethods" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06.ComparisonMethods" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputeThis" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.ComputeThis" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFields" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.DemoFields" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogsHumanAge" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.DogsHumanAge" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleInput" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.Exercises.DoubleInput" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleRound" type="Application" factoryName="Application" folderName="CH00" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch00.DoubleRound" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch00.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleTrouble" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.DoubleTrouble" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleX" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.DoubleX" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodedLetters" type="Application" factoryName="Application" folderName="ACSL">
+      <option name="MAIN_CLASS_NAME" value="ACSL.FirstOne.EncodedLetters" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeetToInches" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.FeetToInches" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDOW" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.FindDOW" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FromMeToYou" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.FromMeToYou" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FullName" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.FullName" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GasMileage" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.GasMileage" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GivenABC" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.GivenABC" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greeting" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.Hello.Greetings" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greetings2" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.Hello.Greetings2" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGraphics" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.HelloGui.HelloGraphics" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGraphics2" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.HelloGui.HelloGraphics2" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGui" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.HelloGui.HelloGui" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.Hello.HelloWorld" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntSwitch" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.IntSwitch" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LunchTime" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.LunchTime" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixedResults" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.MixedResults" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Morning" type="Application" factoryName="Application" folderName="CH03">
+      <option name="MAIN_CLASS_NAME" value="Ch03.Exercises.Morning" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameThatCelebrity" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.NameThatCelebrity" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintFace" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.PrintFace" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadiusOfCircle" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.RadiusOfCircle" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rainbow" type="Application" factoryName="Application" folderName="CH05">
+      <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.Rainbow" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedCross" type="Application" factoryName="Application" folderName="CH02">
+      <option name="MAIN_CLASS_NAME" value="Ch02.Exercises.RedCross" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareBox" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.SquareBox" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBox" type="Application" factoryName="Application" folderName="CH00">
+      <option name="MAIN_CLASS_NAME" value="Ch00.TestBox" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EncodedLetters" />
+      <item itemvalue="Application.ArithmeticAssignment" />
+      <item itemvalue="Application.ComputeThis" />
+      <item itemvalue="Application.DemoFields" />
+      <item itemvalue="Application.DoubleRound" />
+      <item itemvalue="Application.DoubleTrouble" />
+      <item itemvalue="Application.FindDOW" />
+      <item itemvalue="Application.FromMeToYou" />
+      <item itemvalue="Application.FullName" />
+      <item itemvalue="Application.MixedResults" />
+      <item itemvalue="Application.NameThatCelebrity" />
+      <item itemvalue="Application.PrintFace" />
+      <item itemvalue="Application.RadiusOfCircle" />
+      <item itemvalue="Application.SquareBox" />
+      <item itemvalue="Application.TestBox" />
+      <item itemvalue="Application.DoubleInput" />
+      <item itemvalue="Application.RedCross" />
+      <item itemvalue="Application.Greeting" />
+      <item itemvalue="Application.Greetings2" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Banner" />
+      <item itemvalue="Application.HelloGraphics" />
+      <item itemvalue="Application.HelloGraphics2" />
+      <item itemvalue="Application.HelloGui" />
+      <item itemvalue="Application.Morning" />
+      <item itemvalue="Application.BalloonDraw" />
+      <item itemvalue="Application.BalloonPrint" />
+      <item itemvalue="Application.BallonDraw2" />
+      <item itemvalue="Application.BookTest" />
+      <item itemvalue="Application.DogsHumanAge" />
+      <item itemvalue="Application.DoubleX" />
+      <item itemvalue="Application.FeetToInches" />
+      <item itemvalue="Application.GasMileage" />
+      <item itemvalue="Application.GivenABC" />
+      <item itemvalue="Application.IntSwitch" />
+      <item itemvalue="Application.LunchTime" />
+      <item itemvalue="Application.Rainbow" />
+      <item itemvalue="Application.ComparisonMethods" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArithmeticAssignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="" />
+      <created>1539344406950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539344406950</updated>
+      <workItem from="1539344408184" duration="3805000" />
+      <workItem from="1539349101674" duration="12153000" />
+      <workItem from="1539614285608" duration="216000" />
+      <workItem from="1539662807455" duration="969000" />
+      <workItem from="1539692098712" duration="1672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18815000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18554397" />
+      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
+      <window_info id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3294893" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32730263" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31743422" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18256333" />
+      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
+      <window_info id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32730263" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31743422" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.class" />
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.class" />
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/RoundBalloon.class" />
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/RoundBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/SquareBalloon.class" />
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/SquareBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/Bmi.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch00/FindDOW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch00/DemoFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/Solutions/InflatableBalloon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computer Science A.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch00/DoubleRound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Computer Science A/Ch00/ArithmeticAssignment.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACSL/FirstOne/WrapAround.java" />
+    <entry file="file://$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetters.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Take1_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Craps/RollingDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Wages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="method#Wages#0;class#Wages#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/jdk/internal/math/FloatingDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="2064" column="22" lean-forward="true" selection-start-line="2064" selection-start-column="22" selection-end-line="2064" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.xml.crypto/javax/xml/crypto/MarshalException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.xml.crypto/javax/xml/crypto/AlgorithmMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/ControlPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/DrawingPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding>
+            <element signature="method#main#0;class#Scratch#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/BalloonDraw2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="method#BalloonDraw2#0;class#BalloonDraw2#0" expanded="true" />
+            <element signature="method#main#0;class#BalloonDraw2#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#max#1;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#perfectSquare#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/ControlPanel.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/Rainbow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/LunchTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/IntSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#IntSwitch#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/GivenABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/GasMileage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/FeetToInches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/DoubleX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+          <folding>
+            <element signature="method#main#0;class#DoubleX#0" expanded="true" />
+            <element signature="method#outputRoundedInteger#0;class#DoubleX#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/DogsHumanAge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/Exercises/BookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/BalloonPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#BalloonPrint#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/BalloonDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="method#BalloonDraw#0;class#BalloonDraw#0" expanded="true" />
+            <element signature="method#main#0;class#BalloonDraw#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch03/Exercises/Morning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/Banner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/HelloGraphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/HelloGraphics2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/HelloGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/Hello/Greetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/Hello/Greetings2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/Hello/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/Exercises/DoubleInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch02/Exercises/RedCross.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch00/ComputeThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#ComputeThis#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Computer Science A</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

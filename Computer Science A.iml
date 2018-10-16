@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch05/Poll" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch06/Craps" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch06/Exercises" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch07" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch08" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch09" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch10" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch11" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch12" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch13" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch13/Exercises" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch14" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch15" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch16" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch17" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch18" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch20" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch21" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch22" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch23" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch24" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch25" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch26" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Ch27" />
+      <excludeFolder url="file://$MODULE_DIR$/src/EasyClasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
