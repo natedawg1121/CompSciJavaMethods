@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch06/DateComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch06/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FromMeToYou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FromMeToYou.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/IntSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/IntSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch06/ComparisonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Computer Science A/Ch06/ComparisonMethods.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +32,22 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
           <entry key="iml" value="1" />
-          <entry key="java" value="79" />
+          <entry key="java" value="85" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -49,8 +55,8 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="78" />
-          <entry key="Scratch" value="1" />
+          <entry key="JAVA" value="83" />
+          <entry key="Scratch" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -58,16 +64,16 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="3942" />
-          <entry key="txt" value="64" />
+          <entry key="java" value="4789" />
+          <entry key="txt" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="3915" />
-          <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Scratch" value="27" />
+          <entry key="JAVA" value="4595" />
+          <entry key="PLAIN_TEXT" value="104" />
+          <entry key="Scratch" value="194" />
         </counts>
       </usages-collector>
     </session>
@@ -76,17 +82,46 @@
     <favorites_list name="Computer Science A" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="799">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
                 <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
-                <element signature="method#perfectSquare#0;class#ComparisonMethods#0" expanded="true" />
+                <element signature="method#max#1;class#ComparisonMethods#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
                 <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/DateComparison.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="method#main#0;class#DateComparisons#0" expanded="true" />
+                <element signature="method#isLater#0;class#DateComparisons#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/LeapYear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="method#main#0;class#LeapYear#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,6 +144,7 @@
       <find>prntOut</find>
       <find>hold</find>
       <find>..</find>
+      <find>kb</find>
     </findStrings>
     <replaceStrings>
       <replace>prntOut</replace>
@@ -116,6 +152,7 @@
       <replace>backbone</replace>
       <replace>hab</replace>
       <replace>halt</replace>
+      <replace>gib</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -125,6 +162,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,14 +190,16 @@
         <option value="$PROJECT_DIR$/src/Ch06/Exercises/ComparisonMethods.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/DateComparisons.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/DateComparison.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/LeapYear.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="4" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -346,6 +388,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -366,6 +409,12 @@
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -377,8 +426,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -409,7 +458,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComparisonMethods">
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
@@ -468,6 +517,19 @@
     <configuration name="ComputeThis" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ComputeThis" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateComparison" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06.DateComparison" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -618,6 +680,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" folderName="CH06">
+      <option name="MAIN_CLASS_NAME" value="Ch06.LeapYear" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LunchTime" type="Application" factoryName="Application" folderName="CH05">
       <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.LunchTime" />
       <module name="Computer Science A" />
@@ -727,6 +796,8 @@
       <item itemvalue="Application.LunchTime" />
       <item itemvalue="Application.Rainbow" />
       <item itemvalue="Application.ComparisonMethods" />
+      <item itemvalue="Application.DateComparison" />
+      <item itemvalue="Application.LeapYear" />
     </list>
     <recent_temporary>
       <list>
@@ -746,7 +817,10 @@
       <workItem from="1539614285608" duration="216000" />
       <workItem from="1539662807455" duration="969000" />
       <workItem from="1539692098712" duration="1672000" />
-      <workItem from="1539695672473" duration="843000" />
+      <workItem from="1539695672473" duration="1161000" />
+      <workItem from="1539696882069" duration="759000" />
+      <workItem from="1539781519614" duration="1363000" />
+      <workItem from="1539866070468" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -755,11 +829,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539696004590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed logic to allow for same values">
+      <created>1539696737555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539696737555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19658000" />
+    <option name="totallyTimeSpent" value="23177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -771,7 +852,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -790,7 +871,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31630972" />
+      <window_info active="true" anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.3153014" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -827,29 +908,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added spacing in ComparisonMethods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added spacing in ComparisonMethods" />
+    <MESSAGE value="Changed logic to allow for same values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed logic to allow for same values" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.class" />
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.class" />
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/RoundBalloon.class" />
     <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/RoundBalloon.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -958,13 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1130,15 +1189,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/ComparisonMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="799">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
             <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#perfectSquare#0;class#ComparisonMethods#0" expanded="true" />
+            <element signature="method#max#1;class#ComparisonMethods#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
             <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Dates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#isLater#0;class#Dates#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Solutions/Dates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;method#isLater#0;class#Dates#0" expanded="true" />
+            <element signature="method#isLater#0;class#Dates#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/LeapYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="method#main#0;class#LeapYear#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/DateComparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="method#main#0;class#DateComparisons#0" expanded="true" />
+            <element signature="method#isLater#0;class#DateComparisons#0" expanded="true" />
           </folding>
         </state>
       </provider>
