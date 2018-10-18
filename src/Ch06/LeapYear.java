@@ -2,7 +2,7 @@ package Ch06;
 
 import java.util.Scanner;
 
-    public class LeapYear {
+public class LeapYear {
     public static void main(String[] args) {
         Scanner gib = new Scanner(System.in);
 

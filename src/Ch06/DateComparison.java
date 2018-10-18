@@ -36,7 +36,6 @@ public class DateComparison {
     }
 
     private static boolean isLater(int month1, int day1, int year1, int month2, int day2, int year2) {
-        return (year1 > year2) || (year1 == year2 && month1 > month2) ||
-                (year1 == year2 && month1 == month2 && day1 > day2);
+        return (year1 > year2) || (year1 == year2 && month1 > month2) || (year1 == year2 && month1 == month2 && day1 > day2);
     }
 }
