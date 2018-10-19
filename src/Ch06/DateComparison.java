@@ -6,7 +6,8 @@ public class DateComparison {
     public static void main(String[] args) {
         Scanner gib = new Scanner(System.in);
 
-        System.out.println("Enter the first date: ");
+        System.out.println("Enter the first date");
+        System.out.println("--------------------");
         System.out.print("Month: ");
         int month1 = gib.nextInt();
         System.out.print("Day: ");
@@ -14,7 +15,8 @@ public class DateComparison {
         System.out.print("Year: ");
         int year1 = gib.nextInt();
 
-        System.out.println("Enter the second date: ");
+        System.out.println("Enter the second date");
+        System.out.println("---------------------");
         System.out.print("Month: ");
         int month2 = gib.nextInt();
         System.out.print("Day: ");

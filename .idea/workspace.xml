@@ -447,7 +447,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.craps.jar">
+  <component name="RunManager" selected="Application.DateComparison">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
