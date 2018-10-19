@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch06/BePrepared.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch06/BestFit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,7 +43,7 @@
         <counts>
           <entry key="class" value="8" />
           <entry key="iml" value="1" />
-          <entry key="java" value="88" />
+          <entry key="java" value="90" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -53,7 +51,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="88" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="2" />
         </counts>
@@ -63,14 +61,14 @@
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
           <entry key="java" value="5771" />
-          <entry key="txt" value="160" />
+          <entry key="txt" value="202" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="5577" />
-          <entry key="PLAIN_TEXT" value="161" />
+          <entry key="PLAIN_TEXT" value="203" />
           <entry key="Scratch" value="194" />
         </counts>
       </usages-collector>
@@ -84,11 +82,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch06/BePrepared.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
                 <element signature="method#getOrderTotal#0;class#BePrepared#0" expanded="true" />
               </folding>
             </state>
@@ -99,10 +97,10 @@
         <entry file="file://$PROJECT_DIR$/src/Ch06/BestFit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
               <folding>
                 <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
                 <element signature="method#findBestFit#0;class#BestFit#0" expanded="true" />
               </folding>
             </state>
@@ -393,6 +391,19 @@
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="Craps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -436,7 +447,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BestFit">
+  <component name="RunManager" selected="JAR Application.craps.jar">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
@@ -485,7 +496,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BestFit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BestFit" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06.BestFit" />
       <module name="Computer Science A" />
       <extension name="coverage">
@@ -761,6 +772,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="craps.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/Ch06/Craps/craps.jar" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.EncodedLetters" />
       <item itemvalue="Application.ArithmeticAssignment" />
@@ -799,15 +814,16 @@
       <item itemvalue="Application.IntSwitch" />
       <item itemvalue="Application.LunchTime" />
       <item itemvalue="Application.Rainbow" />
+      <item itemvalue="Application.BePrepared" />
+      <item itemvalue="Application.BestFit" />
       <item itemvalue="Application.ComparisonMethods" />
       <item itemvalue="Application.DateComparison" />
       <item itemvalue="Application.LeapYear" />
-      <item itemvalue="Application.BePrepared" />
-      <item itemvalue="Application.BestFit" />
+      <item itemvalue="JAR Application.craps.jar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestFit" />
+        <item itemvalue="JAR Application.craps.jar" />
         <item itemvalue="Application.ArithmeticAssignment" />
       </list>
     </recent_temporary>
@@ -828,7 +844,7 @@
       <workItem from="1539696882069" duration="759000" />
       <workItem from="1539781519614" duration="1363000" />
       <workItem from="1539866070468" duration="3246000" />
-      <workItem from="1539949566765" duration="1244000" />
+      <workItem from="1539949566765" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -858,11 +874,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539868090642</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished BePrepared and BestFit programs">
+      <created>1539950857087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539950857087</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26588000" />
+    <option name="totallyTimeSpent" value="28018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -875,7 +898,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -893,7 +915,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.3153014" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.3153014" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -933,7 +955,8 @@
     <MESSAGE value="Changed logic to allow for same values" />
     <MESSAGE value="Made LeapYear and DateComparison" />
     <MESSAGE value="Edited those last two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited those last two" />
+    <MESSAGE value="Finished BePrepared and BestFit programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished BePrepared and BestFit programs" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1254,11 +1277,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/BePrepared.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
             <element signature="method#getOrderTotal#0;class#BePrepared#0" expanded="true" />
           </folding>
         </state>
@@ -1267,10 +1290,10 @@
     <entry file="file://$PROJECT_DIR$/src/Ch06/BestFit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
             <element signature="method#findBestFit#0;class#BestFit#0" expanded="true" />
           </folding>
         </state>
