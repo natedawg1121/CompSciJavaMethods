@@ -49,7 +49,7 @@ public class Take1_3 {
      * Precondition: nStones > 0
      */
     public int humanMove(int nStones) {
-        System.out.print("How many stones do you take? (1-3): ");
+        System.out.print("How many stones will you take? (1-3): ");
         int n = kboard.nextInt();
         if (n < 1 || n > 3) {
             System.out.println("You are only allowed to take 1, 2, or 3 stones!");
@@ -76,9 +76,9 @@ public class Take1_3 {
             } else {
                 n = computerMove(stonesLeft);
                 stonesLeft -= n;
-                System.out.println("I take " + n + " stone(s)");
+                System.out.println("The computer took " + n + " stone(s)");
                 if (stonesLeft == 0)
-                    System.out.println("Hooray -- I won!");
+                    System.out.println("Hooray -- the computer won!");
             }
         }
     }
