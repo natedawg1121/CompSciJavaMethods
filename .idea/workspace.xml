@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch06/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch06/FiveLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06/Exercises/Take1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/Take1_3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,23 +30,24 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
           <entry key="iml" value="1" />
-          <entry key="java" value="90" />
+          <entry key="java" value="97" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -51,7 +55,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="88" />
+          <entry key="JAVA" value="95" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="2" />
         </counts>
@@ -60,15 +64,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="5771" />
-          <entry key="txt" value="202" />
+          <entry key="java" value="7148" />
+          <entry key="txt" value="214" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="5577" />
-          <entry key="PLAIN_TEXT" value="203" />
+          <entry key="JAVA" value="6954" />
+          <entry key="PLAIN_TEXT" value="215" />
           <entry key="Scratch" value="194" />
         </counts>
       </usages-collector>
@@ -79,29 +83,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch06/BePrepared.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/Take1_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="method#getOrderTotal#0;class#BePrepared#0" expanded="true" />
+                <element signature="method#computerMove#0;class#Take1_3#0" expanded="true" />
+                <element signature="method#humanMove#0;class#Take1_3#0" expanded="true" />
+                <element signature="docComment;method#play#0;class#Take1_3#0" expanded="true" />
+                <element signature="method#play#0;class#Take1_3#0" expanded="true" />
+                <element signature="docComment;method#main#0;class#Take1_3#0" expanded="true" />
+                <element signature="method#main#0;class#Take1_3#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch06/BestFit.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
               <folding>
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="method#findBestFit#0;class#BestFit#0" expanded="true" />
+                <element signature="method#main#0;class#FiveLines#0" expanded="true" />
+                <element signature="method#inputty#0;class#FiveLines#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,10 +176,13 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/src/Ch06/ComparisonMethods.java" />
         <option value="$PROJECT_DIR$/src/Ch06/DateComparisons.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/DateComparison.java" />
         <option value="$PROJECT_DIR$/src/Ch06/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/Ch06/BePrepared.java" />
         <option value="$PROJECT_DIR$/src/Ch06/BestFit.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/DateComparison.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/EnumDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/FiveLines.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/Take1_3.java" />
       </list>
     </option>
   </component>
@@ -377,6 +385,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -397,13 +406,6 @@
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
-              <item name="Craps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -416,7 +418,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,6 +432,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nated\Documents\Computer Science A\src\Ch06" />
       <recent name="C:\Users\nated\Documents\Computer Science A\src\Ch04\BalloonDraw" />
       <recent name="C:\Users\nated\Documents\Computer Science A\src" />
     </key>
@@ -447,7 +449,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateComparison">
+  <component name="RunManager" selected="Application.Take1_3">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
@@ -618,6 +620,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FiveLines" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06.FiveLines" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FromMeToYou" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.FromMeToYou" />
       <module name="Computer Science A" />
@@ -765,6 +780,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Take1_3" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06.Take1_3" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBox" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.TestBox" />
       <module name="Computer Science A" />
@@ -818,7 +846,9 @@
       <item itemvalue="Application.BestFit" />
       <item itemvalue="Application.ComparisonMethods" />
       <item itemvalue="Application.DateComparison" />
+      <item itemvalue="Application.FiveLines" />
       <item itemvalue="Application.LeapYear" />
+      <item itemvalue="Application.Take1_3" />
       <item itemvalue="JAR Application.craps.jar" />
     </list>
     <recent_temporary>
@@ -844,7 +874,9 @@
       <workItem from="1539696882069" duration="759000" />
       <workItem from="1539781519614" duration="1363000" />
       <workItem from="1539866070468" duration="3246000" />
-      <workItem from="1539949566765" duration="2674000" />
+      <workItem from="1539949566765" duration="3110000" />
+      <workItem from="1540213345077" duration="1774000" />
+      <workItem from="1540299610704" duration="3757000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -881,11 +913,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539950857087</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit craps">
+      <created>1539953405810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539953405810</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit craps">
+      <created>1539953564159</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539953564159</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28018000" />
+    <option name="totallyTimeSpent" value="33985000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -898,7 +944,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18554397" />
+      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
+      <window_info id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3294893" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32612056" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39876354" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.3153014" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
@@ -911,35 +982,11 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32730263" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39876354" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
       <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.3153014" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18256333" />
-      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
-      <window_info id="TODO" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32730263" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31743422" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -956,21 +1003,26 @@
     <MESSAGE value="Made LeapYear and DateComparison" />
     <MESSAGE value="Edited those last two" />
     <MESSAGE value="Finished BePrepared and BestFit programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished BePrepared and BestFit programs" />
+    <MESSAGE value="Commit craps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit craps" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ch06/Exercises/Rps.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/SquareBalloon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/Bmi.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch00/FindDOW.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1008,20 +1060,6 @@
     <entry file="file://$PROJECT_DIR$/src/ACSL/FirstOne/WrapAround.java" />
     <entry file="file://$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetters.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Take1_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Craps/RollingDie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Wages.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1259,22 +1297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/DateComparison.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/LeapYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="method#main#0;class#LeapYear#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Rps.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/BePrepared.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1287,14 +1309,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/DateComparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#main#0;class#DateComparison#0" expanded="true" />
+            <element signature="method#isLater#0;class#DateComparison#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/BestFit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
             <element signature="method#findBestFit#0;class#BestFit#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/LeapYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="method#main#0;class#LeapYear#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/EnumDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Rps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Craps/RollingDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#main#0;class#FiveLines#0" expanded="true" />
+            <element signature="method#inputty#0;class#FiveLines#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Take1_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="method#computerMove#0;class#Take1_3#0" expanded="true" />
+            <element signature="method#humanMove#0;class#Take1_3#0" expanded="true" />
+            <element signature="docComment;method#play#0;class#Take1_3#0" expanded="true" />
+            <element signature="method#play#0;class#Take1_3#0" expanded="true" />
+            <element signature="docComment;method#main#0;class#Take1_3#0" expanded="true" />
+            <element signature="method#main#0;class#Take1_3#0" expanded="true" />
           </folding>
         </state>
       </provider>
