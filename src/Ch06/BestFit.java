@@ -1,11 +1,19 @@
 package Ch06;
 
+import java.util.Scanner;
+
 public class BestFit {
+
+    private static Scanner gib = new Scanner(System.in);
+
     public static void main(String[] args) {
-        System.out.println(findBestFit(1,3,3));
+        double i1 = gib.nextDouble();
+        double i2 = gib.nextDouble();
+        double i3 = gib.nextDouble();
+        System.out.println(findBestFit(i1, i2, i3));
     }
-    public static int findBestFit(int size1, int size2, int space) {
-        int totalSize = (size1 + size2);
+    public static int findBestFit(double size1, double size2, double space) {
+        double totalSize = (size1 + size2);
         if (totalSize <= space) {
             return 3;
         } else if ((size1 <= space) && (size2 <= space)) {

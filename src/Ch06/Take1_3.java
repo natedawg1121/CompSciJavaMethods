@@ -63,6 +63,7 @@ public class Take1_3 {
      * Plays the game
      */
     public void play() {
+        int turnP = (int) (2 * Math.random());
         while (stonesLeft > 0) {
             System.out.println(stonesLeft + " stone(s) left in the pile");
 
