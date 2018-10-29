@@ -20,14 +20,10 @@ public class FiveLines {
         line = gib.nextInt();
         switch(line) {
             case 1:
-                System.out.println("Buckle my shoe");
-                break;
             case 2:
                 System.out.println("Buckle my shoe");
                 break;
             case 3:
-                System.out.println("Shut the door");
-                break;
             case 4:
                 System.out.println("Shut the door");
                 break;

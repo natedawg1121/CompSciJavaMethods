@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch07/RecursiveAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch06/NoMoreDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch06/Number3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Computer Science A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science A.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch06/BestFit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/BestFit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch06/Take1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/Take1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06/FiveLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/FiveLines.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,26 +30,28 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
           <entry key="iml" value="1" />
-          <entry key="java" value="102" />
+          <entry key="java" value="106" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
@@ -58,7 +59,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="100" />
+          <entry key="JAVA" value="104" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="3" />
         </counts>
@@ -67,15 +68,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="7719" />
-          <entry key="txt" value="263" />
+          <entry key="java" value="8565" />
+          <entry key="txt" value="289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="7525" />
-          <entry key="PLAIN_TEXT" value="264" />
+          <entry key="JAVA" value="8371" />
+          <entry key="PLAIN_TEXT" value="290" />
           <entry key="Scratch" value="194" />
         </counts>
       </usages-collector>
@@ -86,15 +87,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch07/RecursiveAddition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state>
               <folding>
                 <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
                 <element signature="method#addIt#0;class#RecursiveAddition#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/Take1_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="54" column="82" selection-start-line="54" selection-start-column="82" selection-end-line="54" selection-end-column="82" />
+              <folding>
+                <element signature="method#computerMove#0;class#Take1_3#0" expanded="true" />
+                <element signature="docComment;method#play#0;class#Take1_3#0" expanded="true" />
+                <element signature="method#play#0;class#Take1_3#0" expanded="true" />
+                <element signature="docComment;method#main#0;class#Take1_3#0" expanded="true" />
+                <element signature="method#main#0;class#Take1_3#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/NoMoreDivision.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="method#main#0;class#NoMoreDivision#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/Number3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="method#main#0;class#Number3#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="method#main#0;class#FiveLines#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,10 +220,12 @@
         <option value="$PROJECT_DIR$/src/Ch06/BePrepared.java" />
         <option value="$PROJECT_DIR$/src/Ch06/DateComparison.java" />
         <option value="$PROJECT_DIR$/src/Ch06/EnumDemo.java" />
-        <option value="$PROJECT_DIR$/src/Ch06/FiveLines.java" />
         <option value="$PROJECT_DIR$/src/Ch06/Take1_3.java" />
         <option value="$PROJECT_DIR$/src/Ch06/BestFit.java" />
         <option value="$PROJECT_DIR$/src/Ch07/RecursiveAddition.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/FiveLines.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/Number3.java" />
+        <option value="$PROJECT_DIR$/src/Ch06/NoMoreDivision.java" />
       </list>
     </option>
   </component>
@@ -374,8 +428,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -390,6 +442,12 @@
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -401,6 +459,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,7 +471,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -432,7 +492,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RecursiveAddition">
+  <component name="RunManager" selected="Application.NoMoreDivision">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
@@ -728,6 +788,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NoMoreDivision" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06.NoMoreDivision" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number3" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06.Number3" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintFace" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.PrintFace" />
       <module name="Computer Science A" />
@@ -846,6 +932,8 @@
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.Take1_3" />
       <item itemvalue="Application.RecursiveAddition" />
+      <item itemvalue="Application.NoMoreDivision" />
+      <item itemvalue="Application.Number3" />
       <item itemvalue="JAR Application.craps.jar" />
     </list>
     <recent_temporary>
@@ -876,7 +964,11 @@
       <workItem from="1540299610704" duration="4737000" />
       <workItem from="1540379950238" duration="834000" />
       <workItem from="1540428150735" duration="1463000" />
-      <workItem from="1540555811945" duration="1854000" />
+      <workItem from="1540555811945" duration="2490000" />
+      <workItem from="1540559622282" duration="1848000" />
+      <workItem from="1540737183201" duration="264000" />
+      <workItem from="1540818317670" duration="1237000" />
+      <workItem from="1540819874269" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -941,11 +1033,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540305480858</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Created recursive addition">
+      <created>1540557725457</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540557725457</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39116000" />
+    <option name="totallyTimeSpent" value="43888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -957,7 +1056,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -965,18 +1064,18 @@
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18554397" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
-      <window_info id="TODO" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3294893" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="TODO" order="5" weight="0.32935917" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32921174" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32921174" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32921174" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32612056" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3241491" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39876354" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.3153014" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31442463" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1008,6 +1107,32 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -1020,7 +1145,8 @@
     <MESSAGE value="Commit craps" />
     <MESSAGE value="Game of Nim and Poem" />
     <MESSAGE value="Made Nim output clearer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Nim output clearer" />
+    <MESSAGE value="Created recursive addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created recursive addition" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1039,16 +1165,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Computer Science A.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch00/DoubleRound.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/Computer Science A/Ch00/ArithmeticAssignment.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1281,14 +1397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="method#main#0;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#max#0;class#ComparisonMethods#0" expanded="true" />
-            <element signature="method#max#1;class#ComparisonMethods#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="method#totalWages#0;class#ComparisonMethods#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,10 +1404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="method#main#0;class#DateComparison#0" expanded="true" />
-            <element signature="method#isLater#0;class#DateComparison#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1307,9 +1411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="method#main#0;class#LeapYear#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1338,35 +1439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="method#getOrderTotal#0;class#BePrepared#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="method#main#0;class#FiveLines#0" expanded="true" />
-            <element signature="method#inputty#0;class#FiveLines#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Take1_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-          <folding>
-            <element signature="method#computerMove#0;class#Take1_3#0" expanded="true" />
-            <element signature="method#humanMove#0;class#Take1_3#0" expanded="true" />
-            <element signature="docComment;method#play#0;class#Take1_3#0" expanded="true" />
-            <element signature="docComment;method#main#0;class#Take1_3#0" expanded="true" />
-            <element signature="method#main#0;class#Take1_3#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1381,10 +1453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="method#main#0;class#BestFit#0" expanded="true" />
-            <element signature="method#findBestFit#0;class#BestFit#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1393,12 +1461,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/RecursiveAddition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state>
           <folding>
             <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
             <element signature="method#addIt#0;class#RecursiveAddition#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Take1_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="54" column="82" selection-start-line="54" selection-start-column="82" selection-end-line="54" selection-end-column="82" />
+          <folding>
+            <element signature="method#computerMove#0;class#Take1_3#0" expanded="true" />
+            <element signature="docComment;method#play#0;class#Take1_3#0" expanded="true" />
+            <element signature="method#play#0;class#Take1_3#0" expanded="true" />
+            <element signature="docComment;method#main#0;class#Take1_3#0" expanded="true" />
+            <element signature="method#main#0;class#Take1_3#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="method#main#0;class#FiveLines#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/Number3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="method#main#0;class#Number3#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch06/NoMoreDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="method#main#0;class#NoMoreDivision#0" expanded="true" />
           </folding>
         </state>
       </provider>
