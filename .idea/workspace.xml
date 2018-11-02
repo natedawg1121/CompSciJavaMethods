@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch06/NoMoreDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch06/Number3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch07/GoldenRatio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch07/NbResultCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch07/TwinPrimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch06/FiveLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/FiveLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Computer Science A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science A.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06/NoMoreDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch07/NoMoreDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch07/Number3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch07/Exercises/AverageScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch07/Exercises/AverageScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch07/MyMath/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch07/MyMath.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +35,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -39,27 +44,30 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="8" />
+          <entry key="class" value="9" />
           <entry key="iml" value="1" />
-          <entry key="java" value="106" />
+          <entry key="java" value="116" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="8" />
+          <entry key="CLASS" value="9" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="104" />
+          <entry key="JAVA" value="114" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="3" />
         </counts>
@@ -68,15 +76,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="8565" />
-          <entry key="txt" value="289" />
+          <entry key="java" value="10168" />
+          <entry key="txt" value="330" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="8371" />
-          <entry key="PLAIN_TEXT" value="290" />
+          <entry key="JAVA" value="9974" />
+          <entry key="PLAIN_TEXT" value="331" />
           <entry key="Scratch" value="194" />
         </counts>
       </usages-collector>
@@ -88,66 +96,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch07/RecursiveAddition.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch07/TwinPrimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="method#addIt#0;class#RecursiveAddition#0" expanded="true" />
+                <element signature="method#main#0;class#TwinPrimes#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch06/Take1_3.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch07/NbResultCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="54" column="82" selection-start-line="54" selection-start-column="82" selection-end-line="54" selection-end-column="82" />
+            <state>
               <folding>
-                <element signature="method#computerMove#0;class#Take1_3#0" expanded="true" />
-                <element signature="docComment;method#play#0;class#Take1_3#0" expanded="true" />
-                <element signature="method#play#0;class#Take1_3#0" expanded="true" />
-                <element signature="docComment;method#main#0;class#Take1_3#0" expanded="true" />
-                <element signature="method#main#0;class#Take1_3#0" expanded="true" />
+                <element signature="method#main#0;class#NbResultCheck#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch06/NoMoreDivision.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch07/GoldenRatio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="method#main#0;class#NoMoreDivision#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch06/Number3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="method#main#0;class#Number3#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-              <folding>
-                <element signature="method#main#0;class#FiveLines#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -226,6 +201,13 @@
         <option value="$PROJECT_DIR$/src/Ch06/FiveLines.java" />
         <option value="$PROJECT_DIR$/src/Ch06/Number3.java" />
         <option value="$PROJECT_DIR$/src/Ch06/NoMoreDivision.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/NoMoreDivision.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/MyMath/MyMath.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/Exercises/AverageScore.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/MyMath.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/TwinPrimes.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/NbResultCheck.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/GoldenRatio.java" />
       </list>
     </option>
   </component>
@@ -444,7 +426,7 @@
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch07" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
@@ -492,10 +474,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NoMoreDivision">
+  <component name="RunManager" selected="Application.GoldenRatio">
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AverageScore" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.Exercises.AverageScore" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -533,7 +528,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -546,7 +541,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -566,7 +561,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -586,7 +581,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -668,7 +663,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -700,6 +695,19 @@
     <configuration name="GivenABC" type="Application" factoryName="Application" folderName="CH05">
       <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.GivenABC" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoldenRatio" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.GoldenRatio" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -781,6 +789,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyMath" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.MyMath" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NameThatCelebrity" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.NameThatCelebrity" />
       <module name="Computer Science A" />
@@ -788,12 +809,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoMoreDivision" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06.NoMoreDivision" />
+    <configuration name="NbResultCheck" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.NbResultCheck" />
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoMoreDivision" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.NoMoreDivision" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -802,11 +836,11 @@
       </method>
     </configuration>
     <configuration name="Number3" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06.Number3" />
+      <option name="MAIN_CLASS_NAME" value="Ch07.Number3" />
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -867,7 +901,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -882,9 +916,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="craps.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/src/Ch06/Craps/craps.jar" />
-      <method v="2" />
+    <configuration name="TwinPrimes" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.TwinPrimes" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.EncodedLetters" />
@@ -931,14 +974,17 @@
       <item itemvalue="Application.FiveLines" />
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.Take1_3" />
-      <item itemvalue="Application.RecursiveAddition" />
+      <item itemvalue="Application.AverageScore" />
+      <item itemvalue="Application.MyMath" />
       <item itemvalue="Application.NoMoreDivision" />
       <item itemvalue="Application.Number3" />
-      <item itemvalue="JAR Application.craps.jar" />
+      <item itemvalue="Application.RecursiveAddition" />
+      <item itemvalue="Application.TwinPrimes" />
+      <item itemvalue="Application.GoldenRatio" />
+      <item itemvalue="Application.NbResultCheck" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.craps.jar" />
         <item itemvalue="Application.ArithmeticAssignment" />
       </list>
     </recent_temporary>
@@ -968,7 +1014,10 @@
       <workItem from="1540559622282" duration="1848000" />
       <workItem from="1540737183201" duration="264000" />
       <workItem from="1540818317670" duration="1237000" />
-      <workItem from="1540819874269" duration="787000" />
+      <workItem from="1540819874269" duration="1135000" />
+      <workItem from="1540991316922" duration="445000" />
+      <workItem from="1541077384851" duration="2074000" />
+      <workItem from="1541164631034" duration="4165000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1040,11 +1089,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540557725457</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Did some early chapter 7 exercises">
+      <created>1540820730483</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540820730483</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43888000" />
+    <option name="totallyTimeSpent" value="50920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1057,8 +1113,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18554397" />
+      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
+      <window_info id="TODO" order="5" weight="0.32935917" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32921174" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32921174" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32921174" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3241491" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3987034" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31442463" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
@@ -1076,30 +1155,6 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
       <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.31442463" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.18554397" />
-      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
-      <window_info id="TODO" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3294893" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32730263" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39876354" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.3153014" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1146,7 +1201,8 @@
     <MESSAGE value="Game of Nim and Poem" />
     <MESSAGE value="Made Nim output clearer" />
     <MESSAGE value="Created recursive addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created recursive addition" />
+    <MESSAGE value="Did some early chapter 7 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did some early chapter 7 exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1165,34 +1221,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/Computer Science A/Ch00/ArithmeticAssignment.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACSL/FirstOne/WrapAround.java" />
-    <entry file="file://$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetters.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Wages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/jdk/internal/math/FloatingDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3247">
-          <caret line="2064" column="22" lean-forward="true" selection-start-line="2064" selection-start-column="22" selection-end-line="2064" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.xml.crypto/javax/xml/crypto/MarshalException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.xml.crypto/javax/xml/crypto/AlgorithmMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1442,13 +1470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/Exercises/AverageScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/BestFit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1484,6 +1505,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/Number3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#Number3#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1494,23 +1525,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Number3.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch07/NoMoreDivision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="221">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/Exercises/Solutions/QuotientRemainder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/Exercises/AverageScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Computer Science A/Ch07/RecursiveAddition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/MyMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="method#main#0;class#Number3#0" expanded="true" />
+            <element signature="docComment;method#factorial#0;class#MyMath#0" expanded="true" />
+            <element signature="method#factorial#0;class#MyMath#0" expanded="true" />
+            <element signature="docComment;method#isPrime#0;class#MyMath#0" expanded="true" />
+            <element signature="method#isPrime#0;class#MyMath#0" expanded="true" />
+            <element signature="docComment;method#testGoldbach#0;class#MyMath#0" expanded="true" />
+            <element signature="method#testGoldbach#0;class#MyMath#0" expanded="true" />
+            <element signature="method#addOdds#0;class#MyMath#0" expanded="true" />
+            <element signature="docComment;method#main#0;class#MyMath#0" expanded="true" />
+            <element signature="method#main#0;class#MyMath#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/NoMoreDivision.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch07/TwinPrimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <element signature="method#main#0;class#NoMoreDivision#0" expanded="true" />
+            <element signature="method#main#0;class#TwinPrimes#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/NbResultCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#main#0;class#NbResultCheck#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/GoldenRatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
         </state>
       </provider>
     </entry>

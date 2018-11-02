@@ -1,4 +1,4 @@
-package Ch07.MyMath;
+package Ch07;
 
 import java.util.Scanner;
 
@@ -36,19 +36,19 @@ public class MyMath
    */
   public static boolean isPrime(int n)
   {
-    if (n <= 1)
-      return false;
+      if (n <= 1)
+          return false;
 
-    int m = 2;
+      int m = 2;
 
-    while (m * m <= n)
-    {
-      if (n % m == 0)
-        return false;
-      m++;
-    }
+      while (m * m <= n)
+      {
+          if (n % m == 0)
+              return false;
+          m++;
+      }
 
-    return true;
+      return true;
   }
 
   /**
@@ -77,6 +77,15 @@ public class MyMath
     return true;
   }
 
+  public static int addOdds(int n) {
+      int sum = 0;
+
+      for (int k = 1; k <= n; k += 2)
+          sum += k;
+
+      return sum;
+  }
+
   /*********************************************************************/
 
   public static void main(String[] args)
@@ -92,15 +101,16 @@ public class MyMath
 
     kb.close();
 
-    System.out.println();
-    System.out.println("1 + ... + " + n + " = " + sumUpTo(n));
-    System.out.println(n + "! = " + factorial(n));
-    System.out.println("Primes: ");
-    for (int k = 1; k <= n; k++)
-      if (isPrime(k))
-        System.out.print(k + " ");
-    System.out.println();
-    System.out.println("Goldbach conjecture up to " + n + ": " + testGoldbach(n));
+//    System.out.println();
+//    System.out.println("1 + ... + " + n + " = " + sumUpTo(n));
+//    System.out.println(n + "! = " + factorial(n));
+//    System.out.println("Primes: ");
+//    for (int k = 1; k <= n; k++)
+//      if (isPrime(k))
+//        System.out.print(k + " ");
+//    System.out.println();
+//    System.out.println("Goldbach conjecture up to " + n + ": " + testGoldbach(n));
+      System.out.println(addOdds(13));
   }
 }
 
