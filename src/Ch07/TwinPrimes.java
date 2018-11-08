@@ -5,7 +5,7 @@ public class TwinPrimes {
         int pNum = 0;
         int checkNum;
         boolean cont;
-        for (int i = 0; i <= 20; i++) {
+        for (int i = 0; i < 20; i++) {
             cont = false;
             while (!cont) {
                 while (!MyMath.isPrime(pNum))
