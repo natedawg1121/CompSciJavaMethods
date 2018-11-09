@@ -34,7 +34,6 @@ public class Palindromes {
     private static void collectData() {
         gib = new ArrayList<>();
         int setNum = 0;
-
         for (int i = 0; i < toq; i++) {
             if (i % 2 == 0) {
                 setNum += 1;
@@ -48,20 +47,16 @@ public class Palindromes {
     private static void tacoCat(int ree) {
         int mitosis = ree;
         int apoptosis = ree + 1;
-
-        String first = gib.get(mitosis).toUpperCase();
+        String first = gib.get(mitosis);
         int vex = Integer.parseInt(gib.get(apoptosis));
         int phineas = Integer.parseInt(first, vex);
-
         while (!istPalindrom(first) && (phineas < 1000000000)) {
             phineas = Integer.parseInt(first, vex);
             int ferb = Integer.parseInt(reverseReverse(first), vex);
             first = Integer.toString(phineas + ferb, vex);
             phineas = Integer.parseInt(first, vex);
         }
-
         String output;
-
         if (istPalindrom(first)) {
             output = first.toUpperCase();
         } else {
@@ -70,17 +65,13 @@ public class Palindromes {
         System.out.println(output);
     }
 
-    private static boolean istPalindrom(String noot) {
-        return noot.equals(reverseReverse(noot));
-    }
+    private static boolean istPalindrom(String noot) { return noot.equals(reverseReverse(noot)); }
 
     private static String reverseReverse(String yote) {
         String reverse = "";
-
         for (int i = yote.length() - 1; i >= 0; i--) {
             reverse += yote.charAt(i);
         }
-
         return reverse;
     }
 }

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ACSL/Palindromes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACSL/EncodedLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch07/TwinPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch07/TwinPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/ACSL/FirstOne/EncodedLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACSL/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACSL/Palindromes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +29,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -47,9 +46,9 @@
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,15 +72,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="13430" />
-          <entry key="txt" value="396" />
+          <entry key="java" value="13431" />
+          <entry key="txt" value="428" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="12950" />
-          <entry key="PLAIN_TEXT" value="397" />
+          <entry key="JAVA" value="12951" />
+          <entry key="PLAIN_TEXT" value="429" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -95,13 +94,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+            <state>
               <folding>
-                <element signature="e#0#2064#0" expanded="true" />
+                <element signature="e#0#2511#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#1843#1844#0" expanded="true" />
-                <element signature="e#1899#1900#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1018,7 +1014,8 @@
       <workItem from="1541476741328" duration="2052000" />
       <workItem from="1541481859647" duration="852000" />
       <workItem from="1541685117907" duration="40000" />
-      <workItem from="1541685671322" duration="10163000" />
+      <workItem from="1541685671322" duration="10547000" />
+      <workItem from="1541769770099" duration="1671000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1104,11 +1101,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541172180156</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Finished the second ACSL program">
+      <created>1541712709135</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541712709135</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64508000" />
+    <option name="totallyTimeSpent" value="66563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1121,12 +1125,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" weight="0.1609538" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.1609538" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
       <window_info id="TODO" order="5" weight="0.32935917" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32921174" />
@@ -1139,7 +1142,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info active="true" anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.36970684" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.36970684" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1212,7 +1215,8 @@
     <MESSAGE value="Created recursive addition" />
     <MESSAGE value="Did some early chapter 7 exercises" />
     <MESSAGE value="Did some of the later Ch 7 exercises before the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did some of the later Ch 7 exercises before the test" />
+    <MESSAGE value="Finished the second ACSL program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the second ACSL program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1371,9 +1375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="method#main#0;class#FiveLines#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1555,22 +1556,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#2804#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        <state>
           <folding>
-            <element signature="e#0#2064#0" expanded="true" />
+            <element signature="e#0#2511#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#1843#1844#0" expanded="true" />
-            <element signature="e#1899#1900#0" expanded="true" />
           </folding>
         </state>
       </provider>
