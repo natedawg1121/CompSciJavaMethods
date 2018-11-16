@@ -17,13 +17,10 @@ import javax.swing.JOptionPane;
 import java.util.ArrayList;
 
 public class Palindromes {
-    // This sets the number of inputs
-    /////////////////////////////////////
     private static int toq = 5;
-    /////////////////////////////////////
     private static ArrayList<String> gib;
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         toq *= 2;
         collectData();
         for (int i = 0; i < toq; i += 2) {

@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch07/AsteriskPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch07/CloseFractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch07/FractionPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/AllSameChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/DelAllWithin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/ACSL/FirstOne/EncodedLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Computer Science A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science A.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workbench.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workbench.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dracula.colors.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ACSL/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACSL/Palindromes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,7 +37,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -37,50 +45,53 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.23" value="5" />
           <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="9" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="139" />
-          <entry key="xml" value="3" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="167" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="9" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="136" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="164" />
           <entry key="Scratch" value="3" />
-          <entry key="XML" value="3" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="13431" />
-          <entry key="txt" value="428" />
+          <entry key="java" value="15696" />
+          <entry key="txt" value="452" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="12951" />
-          <entry key="PLAIN_TEXT" value="429" />
+          <entry key="JAVA" value="15216" />
+          <entry key="PLAIN_TEXT" value="453" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -91,14 +102,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch07/CloseFractions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch07/FractionPrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
               <folding>
-                <element signature="e#0#2511#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch08/DelAllWithin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -184,15 +213,27 @@
         <option value="$PROJECT_DIR$/src/Ch07/GoldenRatio.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/src/Ch07/TwinPrimes.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/NoMathExponents.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Palindromes.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/AsteriskPrint.java" />
+        <option value="$PROJECT_DIR$/src/ACSL/EncodedLetters.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/DelAllWithin.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/AllSameChar.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/CloseFractions.java" />
+        <option value="$PROJECT_DIR$/src/Ch07/FractionPrint.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-68" />
-    <option name="y" value="201" />
+    <option name="x" value="-7" />
     <option name="width" value="697" />
-    <option name="height" value="775" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -388,6 +429,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -404,34 +446,34 @@
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ACSL" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch07" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -452,10 +494,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindromes">
+  <component name="RunManager" selected="Application.FractionPrint">
+    <configuration name="AllSameChar" type="Application" factoryName="Application" folderName="CH08" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.AllSameChar" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArithmeticAssignment" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ArithmeticAssignment" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsteriskPrint" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.AsteriskPrint" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -567,6 +635,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DelAllWithin" type="Application" factoryName="Application" folderName="CH08" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.DelAllWithin" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoFields" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.DemoFields" />
       <module name="Computer Science A" />
@@ -638,6 +719,19 @@
     </configuration>
     <configuration name="FiveLines" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06.FiveLines" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FractionPrint" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.FractionPrint" />
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
@@ -826,7 +920,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Palindromes" type="Application" factoryName="Application" folderName="ACSL" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ACSL.Palindromes" />
       <module name="Computer Science A" />
       <extension name="coverage">
@@ -922,6 +1016,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.EncodedLetters" />
+      <item itemvalue="Application.Palindromes" />
       <item itemvalue="Application.ArithmeticAssignment" />
       <item itemvalue="Application.ComputeThis" />
       <item itemvalue="Application.DemoFields" />
@@ -965,7 +1060,9 @@
       <item itemvalue="Application.FiveLines" />
       <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.Take1_3" />
+      <item itemvalue="Application.AsteriskPrint" />
       <item itemvalue="Application.AverageScore" />
+      <item itemvalue="Application.FractionPrint" />
       <item itemvalue="Application.GoldenRatio" />
       <item itemvalue="Application.MyMath" />
       <item itemvalue="Application.NbResultCheck" />
@@ -973,11 +1070,11 @@
       <item itemvalue="Application.Number3" />
       <item itemvalue="Application.RecursiveAddition" />
       <item itemvalue="Application.TwinPrimes" />
-      <item itemvalue="Application.Palindromes" />
+      <item itemvalue="Application.AllSameChar" />
+      <item itemvalue="Application.DelAllWithin" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.ArithmeticAssignment" />
       </list>
     </recent_temporary>
@@ -1015,7 +1112,14 @@
       <workItem from="1541481859647" duration="852000" />
       <workItem from="1541685117907" duration="40000" />
       <workItem from="1541685671322" duration="10547000" />
-      <workItem from="1541769770099" duration="1671000" />
+      <workItem from="1541769770099" duration="2465000" />
+      <workItem from="1542117584655" duration="2241000" />
+      <workItem from="1542198956025" duration="2034000" />
+      <workItem from="1542245684863" duration="484000" />
+      <workItem from="1542246213690" duration="90000" />
+      <workItem from="1542246524132" duration="576000" />
+      <workItem from="1542290387749" duration="10638000" />
+      <workItem from="1542371257454" duration="4453000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1108,11 +1212,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541712709135</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="changed the ACSL program">
+      <created>1541772157030</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541772157031</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66563000" />
+    <option name="totallyTimeSpent" value="87873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1124,25 +1235,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.1609538" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.14754099" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
       <window_info id="TODO" order="5" weight="0.32935917" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32921174" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32921174" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.3241491" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32410422" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.3987034" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.36970684" />
+      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.36970684" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1173,6 +1285,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1216,7 +1331,8 @@
     <MESSAGE value="Did some early chapter 7 exercises" />
     <MESSAGE value="Did some of the later Ch 7 exercises before the test" />
     <MESSAGE value="Finished the second ACSL program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the second ACSL program" />
+    <MESSAGE value="changed the ACSL program" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the ACSL program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1235,84 +1351,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/ControlPanel.class" />
-    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/Rainbow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/BalloonPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch04/BalloonDraw/BalloonDraw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch03/Exercises/Morning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/Banner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/HelloGraphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/HelloGraphics2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/HelloGui/HelloGui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/Hello/Greetings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/Hello/Greetings2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/Hello/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch02/Exercises/DoubleInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1364,13 +1402,6 @@
     <entry file="file://$PROJECT_DIR$/src/Ch07/RecursiveAddition.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/Number3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1409,29 +1440,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch07/NbResultCheck.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/TwinPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/GoldenRatio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/LunchTime.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1552,18 +1563,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACSL/EncodedLetters.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch07/NoMathExponents.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="129">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercises/Hangman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercises/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dracula.colors.xml" />
+    <entry file="file://$PROJECT_DIR$/Workbench.java" />
+    <entry file="file://$PROJECT_DIR$/Computer Science A.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
-            <element signature="e#0#2511#0" expanded="true" />
+            <element signature="e#0#2355#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACSL/EncodedLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/DelAllWithin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/AllSameChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/TwinPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/AsteriskPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/Number3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/GoldenRatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/CloseFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/FractionPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
