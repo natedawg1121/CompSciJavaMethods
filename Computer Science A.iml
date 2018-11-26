@@ -8,7 +8,6 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Ch06/Craps" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch06/Exercises" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch08/Exercises" />
-      <excludeFolder url="file://$MODULE_DIR$/src/Ch08/Lipogrammer" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch09" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch10" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch11" />
@@ -29,6 +28,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Ch26" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch27" />
       <excludeFolder url="file://$MODULE_DIR$/src/EasyClasses" />
+      <excludeFolder url="file://$MODULE_DIR$/src/New Folder" />
+      <excludeFolder url="file://$MODULE_DIR$/src/jGRASPs" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

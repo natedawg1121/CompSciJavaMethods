@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch07/AsteriskPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch07/CloseFractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch07/FractionPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch08/AllSameChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch08/DelAllWithin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/AllDigitsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/DOSorNaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/MyStringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/TestCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/UpgradedPalindromeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Computer Science A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science A.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workbench.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workbench.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dracula.colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACSL/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACSL/Palindromes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogrammerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogrammerMenu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +36,9 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -48,25 +48,27 @@
           <entry key="project.open.time.23" value="5" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="9" />
           <entry key="iml" value="2" />
-          <entry key="java" value="167" />
+          <entry key="java" value="183" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
@@ -74,7 +76,7 @@
         <counts>
           <entry key="CLASS" value="9" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="164" />
+          <entry key="JAVA" value="180" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="4" />
         </counts>
@@ -83,15 +85,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="15696" />
-          <entry key="txt" value="452" />
+          <entry key="java" value="19519" />
+          <entry key="txt" value="482" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="15216" />
-          <entry key="PLAIN_TEXT" value="453" />
+          <entry key="JAVA" value="19039" />
+          <entry key="PLAIN_TEXT" value="483" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -102,34 +104,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch07/CloseFractions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch07/FractionPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch08/DelAllWithin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/Ch08/DOSorNaw.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -150,6 +127,8 @@
       <find>hold</find>
       <find>..</find>
       <find>kb</find>
+      <find>hashed</find>
+      <find>hab</find>
     </findStrings>
     <replaceStrings>
       <replace>prntOut</replace>
@@ -158,6 +137,8 @@
       <replace>hab</replace>
       <replace>halt</replace>
       <replace>gib</replace>
+      <replace>marked</replace>
+      <replace>wordsWith</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -174,11 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch05/Poll/Poll.java" />
-        <option value="$PROJECT_DIR$/src/Ch05/Poll/PollDisplayPanel.java" />
-        <option value="$PROJECT_DIR$/src/Ch05/Poll/PollControlPanel.java" />
-        <option value="$PROJECT_DIR$/src/Ch04/BalloonDraw/BalloonDraw.java" />
-        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/BalloonDraw.java" />
         <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/ControlPanel.java" />
         <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.java" />
         <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.java" />
@@ -220,7 +196,16 @@
         <option value="$PROJECT_DIR$/src/Ch08/DelAllWithin.java" />
         <option value="$PROJECT_DIR$/src/Ch08/AllSameChar.java" />
         <option value="$PROJECT_DIR$/src/Ch07/CloseFractions.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/MyStringMethods.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogrammerMenu.java" />
         <option value="$PROJECT_DIR$/src/Ch07/FractionPrint.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/testCompareTo.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/UpgradedPalindromeCheck.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/AllDigitsInString.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/TestCompareTo.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/DOSorNaw.java" />
       </list>
     </option>
   </component>
@@ -241,148 +226,43 @@
         <expanded-state>
           <State />
           <State>
-            <id>AOP</id>
-          </State>
-          <State>
-            <id>Abstraction issuesJava</id>
-          </State>
-          <State>
-            <id>Ant</id>
-          </State>
-          <State>
-            <id>Assignment issuesJava</id>
-          </State>
-          <State>
-            <id>Class structureJava</id>
-          </State>
-          <State>
-            <id>Cloning issuesJava</id>
-          </State>
-          <State>
-            <id>Code maturityJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>CodeSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>Control flow issuesJava</id>
-          </State>
-          <State>
-            <id>Data flowJava</id>
-          </State>
-          <State>
             <id>Declaration redundancyJava</id>
           </State>
           <State>
             <id>EncapsulationJava</id>
           </State>
           <State>
-            <id>Error handlingJava</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
             <id>Inheritance issuesJava</id>
-          </State>
-          <State>
-            <id>Internationalization</id>
           </State>
           <State>
             <id>J2ME issuesJava</id>
           </State>
           <State>
-            <id>JUnitJava</id>
-          </State>
-          <State>
             <id>Java</id>
-          </State>
-          <State>
-            <id>Java 10Java language level migration aidsJava</id>
           </State>
           <State>
             <id>Java 5Java language level migration aidsJava</id>
           </State>
           <State>
-            <id>Java 7Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java interop issuesKotlin</id>
-          </State>
-          <State>
             <id>Java language level migration aidsJava</id>
           </State>
           <State>
-            <id>JavaFX</id>
-          </State>
-          <State>
-            <id>Kotlin</id>
-          </State>
-          <State>
-            <id>Language Injection</id>
-          </State>
-          <State>
-            <id>LoggingJava</id>
-          </State>
-          <State>
-            <id>MemoryJava</id>
-          </State>
-          <State>
-            <id>Method metricsJava</id>
-          </State>
-          <State>
-            <id>Naming conventionsJava</id>
-          </State>
-          <State>
-            <id>Numeric issuesJava</id>
-          </State>
-          <State>
-            <id>Other problemsKotlin</id>
-          </State>
-          <State>
-            <id>Pattern Validation</id>
+            <id>JavaBeans issuesJava</id>
           </State>
           <State>
             <id>PerformanceJava</id>
           </State>
           <State>
-            <id>PortabilityJava</id>
-          </State>
-          <State>
             <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsKotlin</id>
-          </State>
-          <State>
-            <id>Redundant constructsKotlin</id>
           </State>
           <State>
             <id>Reflective accessJava</id>
           </State>
           <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
             <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring AOPSpring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
-          </State>
-          <State>
-            <id>Style issuesKotlin</id>
           </State>
           <State>
             <id>TestNGJava</id>
@@ -391,30 +271,15 @@
             <id>Threading issuesJava</id>
           </State>
           <State>
-            <id>UI Form</id>
-          </State>
-          <State>
-            <id>Velocity</id>
-          </State>
-          <State>
-            <id>Verbose or redundant code constructsJava</id>
-          </State>
-          <State>
             <id>VisibilityJava</id>
           </State>
           <State>
-            <id>XML</id>
-          </State>
-          <State>
-            <id>XMLSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>XPath</id>
+            <id>toString() issuesJava</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Spelling</id>
+            <id>ObviousNullCheck</id>
           </State>
         </selected-state>
       </profile-state>
@@ -429,6 +294,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -446,13 +312,14 @@
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch07" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch08" type="462c0819:PsiDirectoryNode" />
+              <item name="Lipogrammer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
@@ -462,7 +329,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,7 +339,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -494,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FractionPrint">
+  <component name="RunManager" selected="Application.DOSorNaw">
     <configuration name="AllSameChar" type="Application" factoryName="Application" folderName="CH08" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch08.AllSameChar" />
       <module name="Computer Science A" />
@@ -618,6 +484,19 @@
     <configuration name="ComputeThis" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.ComputeThis" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DOSorNaw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.DOSorNaw" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -840,6 +719,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lipogrammer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.Lipogrammer.Lipogrammer" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.Lipogrammer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LunchTime" type="Application" factoryName="Application" folderName="CH05">
       <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.LunchTime" />
       <module name="Computer Science A" />
@@ -1014,6 +906,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UpgradedPalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.UpgradedPalindromeCheck" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.EncodedLetters" />
       <item itemvalue="Application.Palindromes" />
@@ -1072,9 +977,15 @@
       <item itemvalue="Application.TwinPrimes" />
       <item itemvalue="Application.AllSameChar" />
       <item itemvalue="Application.DelAllWithin" />
+      <item itemvalue="Application.Lipogrammer" />
+      <item itemvalue="Application.UpgradedPalindromeCheck" />
+      <item itemvalue="Application.DOSorNaw" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DOSorNaw" />
+        <item itemvalue="Application.UpgradedPalindromeCheck" />
+        <item itemvalue="Application.Lipogrammer" />
         <item itemvalue="Application.ArithmeticAssignment" />
       </list>
     </recent_temporary>
@@ -1119,7 +1030,15 @@
       <workItem from="1542246213690" duration="90000" />
       <workItem from="1542246524132" duration="576000" />
       <workItem from="1542290387749" duration="10638000" />
-      <workItem from="1542371257454" duration="4453000" />
+      <workItem from="1542371257454" duration="4867000" />
+      <workItem from="1542631943126" duration="1806000" />
+      <workItem from="1542634793254" duration="57000" />
+      <workItem from="1542635182463" duration="73000" />
+      <workItem from="1542636139482" duration="758000" />
+      <workItem from="1542638166481" duration="902000" />
+      <workItem from="1542639623086" duration="5669000" />
+      <workItem from="1542722461774" duration="2470000" />
+      <workItem from="1543236456503" duration="4597000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1219,11 +1138,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541772157031</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Did some programs from 7 and 8">
+      <created>1542376160846</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542376160846</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87873000" />
+    <option name="totallyTimeSpent" value="104619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1235,19 +1161,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.14754099" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.16318928" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
       <window_info id="TODO" order="5" weight="0.32935917" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32921174" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32921174" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32410422" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32247558" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.3987034" />
@@ -1332,7 +1257,8 @@
     <MESSAGE value="Did some of the later Ch 7 exercises before the test" />
     <MESSAGE value="Finished the second ACSL program" />
     <MESSAGE value="changed the ACSL program" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the ACSL program" />
+    <MESSAGE value="Did some programs from 7 and 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did some programs from 7 and 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1351,54 +1277,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch02/Exercises/DoubleInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch02/Exercises/RedCross.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch00/ComputeThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Dates.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Solutions/Dates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Exercises/Rps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch06/Craps/RollingDie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="167" column="6" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/RecursiveAddition.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1564,13 +1442,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/NoMathExponents.java" />
-    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch08/Exercises/Hangman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1590,31 +1461,10 @@
     <entry file="file://$PROJECT_DIR$/Computer Science A.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#2355#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/EncodedLetters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch08/DelAllWithin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1622,10 +1472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1650,29 +1496,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch07/CloseFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/MyStringMethods.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/DelAllWithin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/GoldenRatio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="150">
           <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/CloseFractions.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogrammerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="-435">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/FractionPrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="195">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/AllDigitsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/UpgradedPalindromeCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/TestCompareTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/DOSorNaw.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
