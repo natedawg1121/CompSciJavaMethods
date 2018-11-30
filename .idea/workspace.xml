@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ding.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/HangmanPackage/HangmanGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch08/ISBNCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch08/Lipogrammer/lipogram.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch08/Lipogrammer/lipogram.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Computer Science A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science A.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch08/Exercises/Hangman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch08/HangmanPackage/Hangman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch08/TestCompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch08/TestCompareTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch09/Fortunes/FortuneTeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Fortunes/FortuneTeller.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +34,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="45" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -47,22 +52,23 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.49" value="1" />
-          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="9" />
           <entry key="iml" value="2" />
-          <entry key="java" value="185" />
-          <entry key="txt" value="2" />
+          <entry key="java" value="194" />
+          <entry key="txt" value="4" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
@@ -70,8 +76,8 @@
         <counts>
           <entry key="CLASS" value="9" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="182" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="191" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="4" />
         </counts>
@@ -80,15 +86,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="19587" />
-          <entry key="txt" value="514" />
+          <entry key="java" value="21755" />
+          <entry key="txt" value="519" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="19107" />
-          <entry key="PLAIN_TEXT" value="515" />
+          <entry key="JAVA" value="21275" />
+          <entry key="PLAIN_TEXT" value="520" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -99,31 +105,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch09/Fortunes/FortuneTeller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state>
               <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/lipogram.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch08/DOSorNaw.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -172,13 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/FancyBalloon.java" />
-        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/OvalBalloon.java" />
-        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/RoundBalloon.java" />
-        <option value="$PROJECT_DIR$/src/Ch04/BalloonsAllKinds/SquareBalloon.java" />
-        <option value="$PROJECT_DIR$/src/Ch00/findDOW.java" />
-        <option value="$PROJECT_DIR$/src/Ch05/Exercises/DogsHumanAge.java" />
-        <option value="$PROJECT_DIR$/src/Ch00/DoubleRound.java" />
         <option value="$PROJECT_DIR$/src/Ch00/WrapAround.java" />
         <option value="$PROJECT_DIR$/src/ACSL/WrapAround.java" />
         <option value="$PROJECT_DIR$/src/ACSL/FirstOne/EncodedLetter.java" />
@@ -219,10 +202,17 @@
         <option value="$PROJECT_DIR$/src/Ch08/testCompareTo.java" />
         <option value="$PROJECT_DIR$/src/Ch08/UpgradedPalindromeCheck.java" />
         <option value="$PROJECT_DIR$/src/Ch08/AllDigitsInString.java" />
-        <option value="$PROJECT_DIR$/src/Ch08/TestCompareTo.java" />
         <option value="$PROJECT_DIR$/src/Ch08/DOSorNaw.java" />
         <option value="$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/Ch08/Lipogrammer/lipogram.txt" />
+        <option value="$PROJECT_DIR$/src/Ch08/Hangman.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/HangmanPackage/Hangman.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/HangmanPackage/HangmanGame.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/ISBNCheck.java" />
+        <option value="$PROJECT_DIR$/src/Ch08/TestCompareTo.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Fortunes/EasySound.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Fortunes/FortuneTeller.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Fortunes/listOfFortunes.txt" />
       </list>
     </option>
   </component>
@@ -311,8 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,14 +317,14 @@
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch08" type="462c0819:PsiDirectoryNode" />
-              <item name="Lipogrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="Fortunes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
@@ -346,6 +334,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,10 +346,17 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nated\Documents\Computer Science A" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ch09.Fortunes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nated\Documents\Computer Science A\src\Ch08" />
       <recent name="C:\Users\nated\Documents\Computer Science A\src\Ch06" />
       <recent name="C:\Users\nated\Documents\Computer Science A\src\Ch04\BalloonDraw" />
       <recent name="C:\Users\nated\Documents\Computer Science A\src" />
@@ -377,13 +374,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lipogrammer">
+  <component name="RunManager" selected="Application.FortuneTeller">
     <configuration name="AllSameChar" type="Application" factoryName="Application" folderName="CH08" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch08.AllSameChar" />
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch08.*" />
+          <option name="PATTERN" value="Ch08.HangmanPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -505,19 +502,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DOSorNaw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch08.DOSorNaw" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DateComparison" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06.DateComparison" />
       <module name="Computer Science A" />
@@ -536,7 +520,7 @@
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch08.*" />
+          <option name="PATTERN" value="Ch08.HangmanPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -626,6 +610,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FortuneTeller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Fortunes.FortuneTeller" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch09.Fortunes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FractionPrint" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch07.FractionPrint" />
       <module name="Computer Science A" />
@@ -694,6 +691,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.HangmanPackage.Hangman" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.HangmanPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloGraphics" type="Application" factoryName="Application" folderName="CH02">
       <option name="MAIN_CLASS_NAME" value="Ch02.HelloGui.HelloGraphics" />
       <module name="Computer Science A" />
@@ -718,6 +728,19 @@
     <configuration name="HelloWorld" type="Application" factoryName="Application" folderName="CH02">
       <option name="MAIN_CLASS_NAME" value="Ch02.Hello.HelloWorld" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ISBNCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.ISBNCheck" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -910,12 +933,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwinPrimes" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch07.TwinPrimes" />
+    <configuration name="TestCompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch08.TestCompareTo" />
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch07.*" />
+          <option name="PATTERN" value="Ch08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -923,12 +946,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpgradedPalindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch08.UpgradedPalindromeCheck" />
+    <configuration name="TwinPrimes" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch07.TwinPrimes" />
       <module name="Computer Science A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch08.*" />
+          <option name="PATTERN" value="Ch07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -995,15 +1018,18 @@
       <item itemvalue="Application.AllSameChar" />
       <item itemvalue="Application.DelAllWithin" />
       <item itemvalue="Application.Lipogrammer" />
-      <item itemvalue="Application.UpgradedPalindromeCheck" />
-      <item itemvalue="Application.DOSorNaw" />
+      <item itemvalue="Application.Hangman" />
+      <item itemvalue="Application.ISBNCheck" />
+      <item itemvalue="Application.TestCompareTo" />
+      <item itemvalue="Application.FortuneTeller" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FortuneTeller" />
+        <item itemvalue="Application.Hangman" />
+        <item itemvalue="Application.ISBNCheck" />
+        <item itemvalue="Application.TestCompareTo" />
         <item itemvalue="Application.Lipogrammer" />
-        <item itemvalue="Application.DOSorNaw" />
-        <item itemvalue="Application.UpgradedPalindromeCheck" />
-        <item itemvalue="Application.ArithmeticAssignment" />
       </list>
     </recent_temporary>
   </component>
@@ -1055,7 +1081,11 @@
       <workItem from="1542638166481" duration="902000" />
       <workItem from="1542639623086" duration="5669000" />
       <workItem from="1542722461774" duration="2470000" />
-      <workItem from="1543236456503" duration="5674000" />
+      <workItem from="1543236456503" duration="6864000" />
+      <workItem from="1543325669352" duration="3741000" />
+      <workItem from="1543408736360" duration="856000" />
+      <workItem from="1543500542363" duration="4523000" />
+      <workItem from="1543586275534" duration="1318000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1169,11 +1199,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543241361897</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Made some changes">
+      <created>1543242540035</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1543242540035</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105696000" />
+    <option name="totallyTimeSpent" value="117324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1186,7 +1223,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -1303,37 +1339,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch06/FiveLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/NoMoreDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/Exercises/Solutions/QuotientRemainder.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch07/Exercises/AverageScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Computer Science A/Ch07/RecursiveAddition.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/MyMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1465,13 +1470,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch07/NoMathExponents.java" />
-    <entry file="file://$PROJECT_DIR$/src/Ch08/Exercises/Hangman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch08/Exercises/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1571,13 +1569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch08/AllDigitsInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch08/UpgradedPalindromeCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1585,22 +1576,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch08/TestCompareTo.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/lipogram.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="15">
+          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/Lipogrammer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="60">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1609,19 +1595,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/LipogramAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch08/Lipogrammer/lipogram.txt">
+    <entry file="file://$PROJECT_DIR$/src/Ch08/HangmanPackage/Hangman.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/HangmanPackage/HangmanGame.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/AllDigitsInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/ISBNCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch08/TestCompareTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Fortunes/EasySound.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Fortunes/listOfFortunes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Fortunes/FortuneTeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

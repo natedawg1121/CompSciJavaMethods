@@ -11,5 +11,10 @@ public class TestCompareTo {
         String n2 = gib.next();
         System.out.println("n1 - n2 = " + (Integer.parseInt(n1) - Integer.parseInt(n2)));
         System.out.println("n1.compareTo(n2) = " + n1.compareTo(n2));
+
+        if (Integer.parseInt(n1) - Integer.parseInt(n2) == n1.compareTo(n2))
+            System.out.println("The hypothesis that n1.compareTo(n2) = n1 - n2 is so far true");
+        else
+            System.out.println("The hypothesis that n1.compareTo(n2) = n1 - n2 is false");
     }
 }
