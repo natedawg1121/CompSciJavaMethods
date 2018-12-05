@@ -1,118 +1,68 @@
 package Ch09.Chomp;
 
-/**
- * Implements a 2-D array of characters
- */
+public class CharMatrix {
+    public final char SPACE = ' ';
+    private char[][] grid;
 
-public class CharMatrix
-{
-  // Fields:
-  ________________________________________________
-  ...
+    public CharMatrix(int rows, int cols) {
+        this.grid = new char[rows][cols];
+        this.fillRect(0, 0, rows - 1, cols - 1, ' ');
+    }
 
-  /**
-   * Constructor: creates a grid with dimensions rows, cols,
-   * and fills it with spaces
-   */
-  public CharMatrix(int rows, int cols)
-  {
-    ________________________________________________
-    ...
-  }
+    public CharMatrix(int rows, int cols, char fill) {
+        this.grid = new char[rows][cols];
+        this.fillRect(0, 0, rows - 1, cols - 1, fill);
+    }
 
-  /**
-   * Constructor: creates a grid with dimensions rows , cols ,
-   * and fills it with the fill character
-   */
-  public CharMatrix(int rows, int cols, char fill)
-  {
-    ________________________________________________
-    ...
-  }
+    public int numRows() {
+        return this.grid.length;
+    }
 
-  /**
-   * Returns the number of rows in grid
-   */
-  public int numRows()
-  {
-    ________________________________________________
-    ...
-  }
+    public int numCols() {
+        return this.grid[0].length;
+    }
 
-  /**
-   * Returns the number of columns in grid
-   */
-  public int numCols()
-  {
-    ________________________________________________
-    ...
-  }
+    public char charAt(int row, int col) {
+        return this.grid[row][col];
+    }
 
-  /**
-   * Returns the character at row, col location
-   */
-  public char charAt(int row, int col)
-  {
-    ________________________________________________
-    ...
-  }
+    public void setCharAt(int row, int col, char ch) {
+        this.grid[row][col] = ch;
+    }
 
-  /**
-   * Sets the character at row, col location to ch
-   */
-  public void setCharAt(int row, int col, char ch)
-  {
-    ________________________________________________
-    ...
-  }
+    public boolean isEmpty(int row, int col) {
+        return this.charAt(row, col) == ' ';
+    }
 
-  /**
-   * Returns true if the character at row, col is a SPACE,
-   * false otherwise
-   */
-  public boolean isEmpty(int row, int col)
-  {
-    ________________________________________________
-    ...
-  }
+    public void fillRect(int row0, int col0, int row1, int col1, char fill) {
+        for(int r = row0; r <= row1; ++r) {
+            for(int c = col0; c <= col1; ++c) {
+                this.setCharAt(r, c, fill);
+            }
+        }
+    }
 
-  /**
-   * Fills the given rectangle with the fill characters.
-   * row0, col0 is the upper left corner and row1, col1 is the
-   * lower right corner of the rectangle.
-   */
-  public void fillRect(int row0, int col0, int row1, int col1, char fill)
-  {
-    ________________________________________________
-    ...
-  }
+    public void clearRect(int row0, int col0, int row1, int col1) {
+        this.fillRect(row0, col0, row1, col1, ' ');
+    }
 
-  /**
-   * Fills the given rectangle with the SPACE characters.
-   * row0, col0 is the upper left corner and row1, col1 is the
-   * lower right corner of the rectangle.
-   */
-  public void clearRect(int row0, int col0, int row1, int col1)
-  {
-    ________________________________________________
-    ...
-  }
+    public int countInRow(int row) {
+        int count = 0;
+        for(int c = 0; c < this.numCols(); ++c) {
+            if (!this.isEmpty(row, c)) {
+                ++count;
+            }
+        }
+        return count;
+    }
 
-  /**
-   * Returns the count of all non-SPACE characters in row.
-   */
-  public int countInRow(int row)
-  {
-    ________________________________________________
-    ...
-  }
-
-  /**
-   * Returns the count of all non-SPACE characters in col.
-   */
-  public int countInCol(int col)
-  {
-    ________________________________________________
-    ...
-  }
+    public int countInCol(int col) {
+        int count = 0;
+        for(int r = 0; r < this.numRows(); ++r) {
+            if (!this.isEmpty(r, col)) {
+                ++count;
+            }
+        }
+        return count;
+    }
 }
