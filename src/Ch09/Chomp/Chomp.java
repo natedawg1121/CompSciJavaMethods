@@ -32,7 +32,8 @@ public class Chomp extends JFrame
 
     game = new ChompGame(board);
 
-    HumanPlayer human = new HumanPlayer(this, game, board);
+    ComputerPlayer human = new ComputerPlayer(this, game, board);
+    human.setStrategy(new Chomp4by7Strategy());
     ComputerPlayer computer = new ComputerPlayer(this, game, board);
     computer.setStrategy(new Chomp4by7Strategy());
 
