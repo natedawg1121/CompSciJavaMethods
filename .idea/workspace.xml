@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ACSL/DigitalReassembly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/ComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/ComputerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ding.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACSL/DigitalReassembly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACSL/DigitalReassembly.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +29,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
+          <entry key="project.closed" value="53" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -44,6 +43,7 @@
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
@@ -53,13 +53,13 @@
           <entry key="project.open.time.49" value="2" />
           <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -85,15 +85,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="22768" />
-          <entry key="txt" value="544" />
+          <entry key="java" value="22799" />
+          <entry key="txt" value="557" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="22288" />
-          <entry key="PLAIN_TEXT" value="545" />
+          <entry key="JAVA" value="22319" />
+          <entry key="PLAIN_TEXT" value="558" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -107,8 +107,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ACSL/DigitalReassembly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+            <state relative-caret-position="165">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#1642#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +137,7 @@
       <find>hashed</find>
       <find>hab</find>
       <find>easy</find>
+      <find>3</find>
     </findStrings>
     <replaceStrings>
       <replace>prntOut</replace>
@@ -220,7 +224,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -299,8 +303,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -340,6 +342,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1096,7 +1100,9 @@
       <workItem from="1544016401385" duration="2056000" />
       <workItem from="1544107307679" duration="1708000" />
       <workItem from="1544185388728" duration="598000" />
-      <workItem from="1544453891297" duration="592000" />
+      <workItem from="1544453891297" duration="789000" />
+      <workItem from="1544455588196" duration="13000" />
+      <workItem from="1544536865011" duration="240000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1245,11 +1251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544017601319</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Did some ASCL">
+      <created>1544454755252</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544454755253</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124735000" />
+    <option name="totallyTimeSpent" value="125185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1280,7 +1293,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.36970684" />
+      <window_info active="true" anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.36970684" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1363,7 +1376,8 @@
     <MESSAGE value="D" />
     <MESSAGE value="Chomp Game" />
     <MESSAGE value="Rest of Chomp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rest of Chomp" />
+    <MESSAGE value="Did some ASCL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did some ASCL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1678,8 +1692,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/DigitalReassembly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#1642#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

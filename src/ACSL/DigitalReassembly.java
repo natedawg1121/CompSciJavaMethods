@@ -16,12 +16,12 @@ package ACSL;
 import javax.swing.JOptionPane;
 
 public class DigitalReassembly {
-    private static int toq = 1;
+    private static int toq = 5;
     private static String[] gib = new String[toq * 2];
 
     public static void main(String[] args) {
         collectData();
-        for (int i = 0; i < toq; i += 2) {
+        for (int i = 0; i < toq * 2; i += 2) {
             splitAndSlap(gib[i], gib[i + 1]);
         }
     }
@@ -45,10 +45,9 @@ public class DigitalReassembly {
             n += "0";
             len = n.length();
         }
-        System.out.println(n);
         int result = 0;
         for (int i = 0; i < len; i += size) {
-            result += Integer.parseInt(n.substring(i, i + 3));
+            result += Integer.parseInt(n.substring(i, i + size));
         }
 
         System.out.println(result);
