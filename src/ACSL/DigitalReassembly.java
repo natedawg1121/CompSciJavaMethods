@@ -1,55 +1,33 @@
-// NAME: NATHAN STEWART
-// SCHOOL: LOVELAND HIGH SCHOOL
-// DIVISION: UNKNOWN
-
-///////////////////////////////////////////////
-//                TEST WITH                  //
-// 13256709, 3                           789 //
-// 3587612098, 1                          49 //
-// 265472, 5                           46547 //
-// 3126854901231, 4                    12798 //
-// 25768437216701562, 7             15413544 //
-///////////////////////////////////////////////
-
 package ACSL;
 
-import javax.swing.JOptionPane;
+import java.util.*;
 
-public class DigitalReassembly {
-    private static int toq = 5;
-    private static String[] gib = new String[toq * 2];
+public class DigitalReassembly
+{
+	static int[] data = new int[50];
+	public static void main(String args[])
+	{
+	    Random rand = new Random();
+  
+       // Generate random integer in range 1 to 50
+       int rand_int1 = rand.nextInt(50) + 1;
 
-    public static void main(String[] args) {
-        collectData();
-        for (int i = 0; i < toq * 2; i += 2) {
-            splitAndSlap(gib[i], gib[i + 1]);
-        }
-    }
+	    for(int i=0; i<rand_int1; i++)
+	    {
+		   data[i] = rand.nextInt(100) + 1;
+	    }
 
-    private static void collectData() {
-        int setNum = 0;
-        for (int i = 0; i < toq * 2; i++) {
-            if (i % 2 == 0) {
-                setNum += 1;
-                gib[i] = JOptionPane.showInputDialog("Enter number " + setNum + " : ");
-            } else {
-                gib[i] = JOptionPane.showInputDialog("Enter size " + setNum + " : ");
-            }
-        }
-    }
+	  //Insert or Delete one element
+	   Scanner insDel = new Scanner(System.in);  
+      System.out.print("Insert or Delete? ");    
+      String answer = insDel.next(); 
+ 
+      //if (answer.equals("insert")==true)
+         //insert one random integer in the range of 1-100 as the last non-zero element of the array
+      //else
+		   //Ask the user to for the index to remove
+		   //Shift all data.  No blanks or gaps in the data set.
 
-    private static void splitAndSlap(String n, String s) {
-        int size = Integer.parseInt(s);
-        int len = n.length();
-        while (len % size != 0) {
-            n += "0";
-            len = n.length();
-        }
-        int result = 0;
-        for (int i = 0; i < len; i += size) {
-            result += Integer.parseInt(n.substring(i, i + size));
-        }
-
-        System.out.println(result);
-    }
+   }
 }
+
