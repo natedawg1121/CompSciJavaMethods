@@ -6,7 +6,7 @@ public class LargestIn2D {
         System.out.println(positiveMax(noot));
     }
 
-    public static int positiveMax(int[][] m) {
+    private static int positiveMax(int[][] m) {
         int max = m[0][0];
         for (int[] top : m)
             for (int bottom : top)

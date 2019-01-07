@@ -1,14 +1,6 @@
 package Ch10.Fraction;
 
-/**
- * Represents a fraction with an int numerator and int denominator
- * and provides methods for adding and multiplying fractions.
- *
- * Author: Alex
- */
-
-public class Fraction
-{
+public class Fraction {
 
   // ******************  Instance variables  ******************
 

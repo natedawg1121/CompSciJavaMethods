@@ -8,14 +8,11 @@ import java.awt.GridLayout;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JFrame;
-import javax.swing.JPanel;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 import javax.swing.JOptionPane;
 
-public class Temperature extends JFrame
-  implements ActionListener
-{
+public class Temperature extends JFrame implements ActionListener {
   private JTextField displayF, displayC;
 
   // Constructor
@@ -43,7 +40,7 @@ public class Temperature extends JFrame
   {
     FCConverter fc = new FCConverter();
 
-    if ((JTextField)e.getSource() == displayF)
+    if (e.getSource() == displayF)
     {
       // Fahrenheit to Celsius
       double degrees = stringToDouble(displayF.getText());
