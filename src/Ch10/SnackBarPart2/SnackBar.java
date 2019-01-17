@@ -4,6 +4,9 @@ package Ch10.SnackBarPart2;
  * The SnackBar program models several "vending machines"
  */
  
+import Ch10.SnackBar.VendingMachine;
+import Ch10.SnackBar.Vendor;
+
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.Dimension;

@@ -58,6 +58,20 @@ public class Fraction {
     return new Fraction(num + m * denom, denom);
   }
 
+  public Fraction subtract(Fraction other) {
+    int newNum = num * other.denom - denom * other.num;
+    int newDenom = denom * other.denom;
+    return new Fraction(newNum, newDenom);
+  }
+
+  public Fraction divide(Fraction other) {
+    if(other.num == 0)
+      throw new IllegalArgumentException("Cannot divide by 0");
+    int newNum = num * other.denom;
+    int newDenom = denom * other.num;
+    return new Fraction(newNum, newDenom);
+  }
+
   // Returns the product of this fraction and other
   public Fraction multiply(Fraction other)
   {

@@ -1,14 +1,7 @@
 package Ch10.Fraction;
 
-/**
- * This is a test class for the Fraction class
- * Author: Blair
- */
-
-public class TestFractions
-{
-  public static void testConstructors()
-  {
+public class TestFractions {
+  public static void testConstructors() {
     Fraction f1 = new Fraction();
     Fraction f2 = new Fraction(7);
     Fraction f3 = new Fraction(12, -20);
@@ -21,8 +14,7 @@ public class TestFractions
     System.out.println();
   }
 
-  public static void testArithmetic()
-  {
+  public static void testArithmetic()  {
     Fraction f1 = new Fraction(1, 2);
     Fraction f2 = new Fraction(1, 3);
 
@@ -32,18 +24,22 @@ public class TestFractions
     Fraction product = f1.multiply(f2);
     System.out.println(f1 + " * " + f2 + " = " + product);
 
+    Fraction division = f1.divide(f2);
+    System.out.println(f1 + " / " + f2 + " = " + division);
+
+    Fraction subtraction = f1.subtract(f2);
+    System.out.println(f1 + " - " + f2 + " = " + subtraction);
+
     System.out.println();
   }
 
-  public static void testValues()
-  {
+  public static void testValues() {
     Fraction f = new Fraction(2, 3);
     System.out.println(f + " = " + f.getValue());
     System.out.println();
   }
 
-  public static void main(String[] args)
-  {
+  public static void main(String[] args) {
     testConstructors();
     testArithmetic();
     testValues();

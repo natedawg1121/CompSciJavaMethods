@@ -1,82 +1,57 @@
 package Ch10.SnackBar;
 
-/**
- * This class implements a vendor that sells one kind
- * of items. A vendor carries out sales transactions.
- */
-public class Vendor
-{
-  // Fields:
-  ...
+public class Vendor {
+    private int myStock;
+    private int myPrice;
+    private int myDeposit;
+    private int myChange;
+    private static int totalSales;
 
-  /**
-   * Constructs a Vendor
-   * @param price the price of a single item in cents (int)
-   * @param stock number of items to place in stock (int)
-   */
-  ... Vendor ...
-  {
-    ...
-  }
+    Vendor(int price, int stock) {
+        this.myPrice = price;
+        this.myStock = stock;
+        this.myDeposit = 0;
+        this.myChange = 0;
+    }
 
-  /**
-   * Sets the quantity of items in stock.
-   * @param qty number of items to place in stock (int)
-   */
-  ... setStock ...
-  {
-    ...
-  }
+    public static int getTotalSales() {
+        return totalSales;
+    }
 
-  /**
-   * Returns the number of items currently in stock.
-   * @return number of items currently in stock (int)
-   */
-  ... getStock ...
-  {
-    ...
-  }
+    void setStock() {
+        this.myStock = 5;
+    }
 
-  /**
-   * Adds a specified amount (in cents) to the
-   * deposited amount.
-   * @param number of cents to add to the deposit (int)
-   */
-  ... addMoney ...
-  {
-    ...
-  }
+    int getStock() {
+        return this.myStock;
+    }
 
-  /**
-   * Returns the currently deposited amount (in cents).
-   * @return number of cents in the current deposit (int)
-   */
-  ... getDeposit ...
-  {
-    ...
-  }
+    void addMoney(int cents) {
+        if (this.myStock != 0)
+            this.myDeposit += cents;
+    }
 
-  /**
-   * Implements a sale.  If there are items in stock and
-   * the deposited amount is greater than or equal to
-   * the single item price, then adjusts the stock and
-   * calculates and sets change, sets deposit to 0 and
-   * returns true; otherwise refunds the whole deposit
-   * (moves it into change) and returns false.
-   * @return true for a successful sale, false otherwise (boolean)
-   */
-  ... makeSale ...
-  {
-    ...
-  }
+    int getDeposit() {
+        return this.myDeposit;
+    }
 
-  /**
-   * Returns and zeroes out the amount of change (from
-   * the last sale or refund).
-   * @return number of cents in the current change (int)
-   */
-  ... getChange ...
-  {
-    ...
-  }
+    boolean makeSale() {
+        totalSales++;
+        if (this.myStock != 0 && this.myDeposit >= this.myPrice) {
+            --this.myStock;
+            this.myChange = this.myDeposit - this.myPrice;
+            this.myDeposit = 0;
+            return true;
+        } else {
+            this.myChange = this.myDeposit;
+            this.myDeposit = 0;
+            return false;
+        }
+    }
+
+    int getChange() {
+        int temp = this.myChange;
+        this.myChange = 0;
+        return temp;
+    }
 }

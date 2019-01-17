@@ -32,9 +32,13 @@ public class Rectangle {
     }
 
     public void quadratize() {
-        int smack = (int)Math.sqrt(width * height);
+        int smack = (int)(Math.sqrt((width * height)) + 0.5);
         width = smack;
         height = smack;
         System.out.println("Rectangle successfully quadratized");
+    }
+
+    public String toString() {
+        return ("[ " + width + " , " + height + " ]");
     }
 }
