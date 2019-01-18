@@ -12,7 +12,7 @@ public class SnackBar extends JFrame implements ActionListener {
     private VendingMachine[] machines;
 
     private SnackBar() {
-        super("Snack Bar");
+        super("Alla-Hu Snack Bar");
         ImageIcon coin = new ImageIcon("coin.gif");
         Color brandColor1 = new Color(130, 30, 10);
         Color brandColor2 = new Color(255, 180, 0);
