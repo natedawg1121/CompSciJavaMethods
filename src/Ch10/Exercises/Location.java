@@ -9,25 +9,12 @@ public class Location {
         col = c;
     }
 
-    public Location(Location loc) {
-        row = loc.getRow();
-        col = loc.getCol();
-    }
-
     public int getRow() {
         return row;
     }
 
     public int getCol() {
         return col;
-    }
-
-    public void setRow(int r) {
-        row = r;
-    }
-
-    public void setCol(int c) {
-        col = c;
     }
 
     public String toString() {
