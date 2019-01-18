@@ -89,8 +89,26 @@ public class VendingMachine extends JPanel implements ActionListener {
             this.trayFull = this.vendor.makeSale();
             int change = this.vendor.getChange();
             if (this.trayFull) {
-                this.repaint();
-                JOptionPane.showMessageDialog(null, "Enjoy your " + this.brandName + "\n" + " Change " + change + "c", "Enjoy " + this.brandName, JOptionPane.PLAIN_MESSAGE);
+                this.repaint();Coins noot = new Coins(change);
+                String changeOutput = change + "c = ";
+                if (noot.getQuarters() > 0) {
+                    changeOutput += noot.getQuarters() + "q ";
+                    if (noot.getDimes() > 0 || noot.getNickels() > 0 || noot.getPennies() > 0)
+                        changeOutput += "+ ";
+                }
+                if (noot.getDimes() > 0) {
+                    changeOutput += noot.getDimes() + "d ";
+                    if (noot.getNickels() > 0 || noot.getPennies() > 0)
+                        changeOutput += "+ ";
+                }
+                if (noot.getNickels() > 0) {
+                    changeOutput += noot.getNickels() + "n ";
+                    if (noot.getPennies() > 0)
+                        changeOutput += "+ ";
+                }
+                if (noot.getPennies() > 0)
+                    changeOutput += noot.getPennies() + "p ";
+                JOptionPane.showMessageDialog(null, "Enjoy your " + this.brandName + "\n" + changeOutput, "Enjoy", JOptionPane.PLAIN_MESSAGE);
                 this.trayFull = false;
             } else if (change > 0) {
                 Coins noot = new Coins(change);
@@ -110,9 +128,9 @@ public class VendingMachine extends JPanel implements ActionListener {
                     if (noot.getPennies() > 0)
                         changeOutput += "+ ";
                 }
-                if (noot.getQuarters() > 0)
+                if (noot.getPennies() > 0)
                     changeOutput += noot.getPennies() + "p ";
-                JOptionPane.showMessageDialog(null,  changeOutput, "Change", JOptionPane.PLAIN_MESSAGE);
+                JOptionPane.showMessageDialog(null, "Enjoy your " + this.brandName + "\n" + changeOutput, "Enjoy", JOptionPane.PLAIN_MESSAGE);
             }
         }
 

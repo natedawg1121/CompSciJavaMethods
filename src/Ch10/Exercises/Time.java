@@ -1,9 +1,9 @@
 package Ch10.Exercises;
 
 public class Time {
-    public int hours;
-    public int minutes;
-    public int fullMins;
+    private int hours;
+    private int minutes;
+    private int fullMins;
 
     public Time(int h, int m) {
         if (h >= 24) {
@@ -29,11 +29,11 @@ public class Time {
         return t.fullMins;
     }
 
-    public boolean lessThan(Time t) {
-        return t.fullMins < fullMins;
+    boolean lessThan(Time t) {
+        return t.fullMins > fullMins;
     }
 
-    public int elapsedSince(Time t) {
+    int elapsedSince(Time t) {
         int temp = fullMins - t.fullMins;
         if (temp > 0) {
             return temp;

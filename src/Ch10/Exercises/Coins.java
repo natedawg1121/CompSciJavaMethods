@@ -8,28 +8,20 @@ public class Coins {
 
     public Coins (int cents) {
         while (cents > 24) {
-            if (cents - 25 > 0) {
-                cents -= 25;
-                quarters++;
-            }
+            cents -= 25;
+            quarters++;
         }
         while (cents > 9) {
-            if (cents - 10 > 0) {
-                cents -= 10;
-                dimes++;
-            }
+            cents -= 10;
+            dimes++;
         }
         while (cents > 4) {
-            if (cents - 5 > 0) {
-                cents -= 5;
-                nickels++;
-            }
+            cents -= 5;
+            nickels++;
         }
         while (cents > 0) {
-            if (cents - 1 > 0) {
-                cents -= 1;
-                pennies++;
-            }
+            cents -= 1;
+            pennies++;
         }
     }
 
