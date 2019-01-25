@@ -4,6 +4,9 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/#Labs/1-magpieLab/Magpie Code" />
+      <excludeFolder url="file://$MODULE_DIR$/src/#Labs/2-pictureLab/pixLab" />
+      <excludeFolder url="file://$MODULE_DIR$/src/#Labs/3-elevensLab/Elevens Code/Activity Starter Code" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch05/Poll" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch06/Craps" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch06/Exercises" />
