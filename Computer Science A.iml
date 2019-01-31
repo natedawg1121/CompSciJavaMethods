@@ -30,6 +30,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Ch26" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch27" />
       <excludeFolder url="file://$MODULE_DIR$/src/EasyClasses" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Labs/pictureLab/pixLab" />
       <excludeFolder url="file://$MODULE_DIR$/src/New Folder" />
       <excludeFolder url="file://$MODULE_DIR$/src/jGRASPs" />
     </content>
