@@ -1,5 +1,3 @@
-package Labs.pictureLab.pixLab.classes;
-
 import java.awt.Color;
 
 /**

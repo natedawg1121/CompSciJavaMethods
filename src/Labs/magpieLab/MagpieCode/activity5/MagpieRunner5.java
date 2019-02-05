@@ -1,5 +1,3 @@
-package Labs.magpieLab.MagpieCode.activity5;
-
 import java.util.Scanner;
 
 /**

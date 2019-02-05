@@ -1,7 +1,3 @@
-package Labs.pictureLab.pixLab.classes;
-
-import Labs.pictureLab.pixLab.classes.DigitalPicture;
-
 import javax.swing.*;
 import java.awt.*;
 
