@@ -1,178 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="Simplified Labs file heirarchy">
+      <change afterPath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity1/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity1/CardTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity10/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity10/ThirteensBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity2/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity2/Deck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity3/Shuffler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity4/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity4/Deck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity7/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity7/Deck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity7/ElevensBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/CardGameGUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/Deck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/ElevensBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/ElevensGUIRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/Magpie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/Magpie2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/MagpieRunner2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/MagpieRunner2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/Magpie2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/resources/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/doc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/resources/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/Magpie3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/MagpieRunner3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/StringExplorer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/Magpie3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/doc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/Magpie4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/MagpieRunner4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/Magpie4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/doc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/Magpie5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/MagpieRunner5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/Magpie5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/doc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/ColorChooser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/DigitalPicture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/FileChooser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/ImageDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/IntArrayWorker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/IntArrayWorkerTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/Picture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureExplorer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/Pixel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/SimplePicture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/ColorChooser.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/DigitalPicture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/FileChooser.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/ImageDisplay.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/IntArrayWorker.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/IntArrayWorkerTester.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/Picture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/PictureExplorer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/PictureFrame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/PictureTester.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/Pixel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/SimplePicture.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/logfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/doc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/leftArrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/outputAngles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/rightArrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/640x480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/7inX95in.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/CumberlandIsland.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/KatieFancy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/arch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/barbaraS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/beach.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/beautiful.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/blue-mark.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/blueMotorcycle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/butterfly1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/caterpillar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/collage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/femaleLionAndHall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/flower1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/flower2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/gorge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/jenny-red.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/kai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/kitten2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/koala.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/moon-surface.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/msg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/redMotorcycle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/robot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/seagull.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/smallkai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/snowman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/swan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/temple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/thruDoor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/wall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/water.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/images/whiteFlower.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -197,7 +28,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="76" />
+          <entry key="project.closed" value="80" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.108" value="1" />
@@ -222,21 +53,22 @@
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.49" value="2" />
-          <entry key="project.open.time.5" value="8" />
+          <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="81" />
+          <entry key="project.opened" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -245,7 +77,8 @@
           <entry key="class" value="15" />
           <entry key="gif" value="4" />
           <entry key="iml" value="2" />
-          <entry key="java" value="457" />
+          <entry key="java" value="472" />
+          <entry key="jpg" value="8" />
           <entry key="pgm" value="11" />
           <entry key="txt" value="5" />
           <entry key="xml" value="7" />
@@ -255,8 +88,8 @@
         <counts>
           <entry key="CLASS" value="15" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="Image" value="15" />
-          <entry key="JAVA" value="454" />
+          <entry key="Image" value="23" />
+          <entry key="JAVA" value="469" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="7" />
@@ -266,15 +99,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="34930" />
-          <entry key="txt" value="782" />
+          <entry key="java" value="36058" />
+          <entry key="txt" value="816" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="34450" />
-          <entry key="PLAIN_TEXT" value="783" />
+          <entry key="JAVA" value="35578" />
+          <entry key="PLAIN_TEXT" value="817" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -285,92 +118,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity7/Deck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity7/ElevensBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/Card.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/CardGameGUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/Deck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/ElevensBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/ElevensGUIRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity10/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="54" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity10/ThirteensBoard.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="434">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -401,11 +153,16 @@
       <find>holder</find>
       <find>temp</find>
       <find>neep</find>
-      <find>negate</find>
       <find>testN</find>
       <find>.pixLab</find>
       <find>.MagpieCode</find>
       <find>.ElevensCode.ActivityStarterCode</find>
+      <find>&gt;= 0</find>
+      <find>pixel</find>
+      <find>mirrorD</find>
+      <find>mirrorT</find>
+      <find>mirrordi</find>
+      <find>negate</find>
     </findStrings>
     <replaceStrings>
       <replace>prntOut</replace>
@@ -437,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity9/Board.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/Picture.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/MagpieRunner2.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/Magpie2.java" />
@@ -450,26 +206,16 @@
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/MagpieRunner5.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureTester.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/ColorChooser.java" />
-        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/DigitalPicture.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/FileChooser.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/ImageDisplay.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/IntArrayWorker.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/IntArrayWorkerTester.java" />
-        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureExplorer.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureFrame.java" />
-        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureTester.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/Pixel.java" />
-        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity2/Magpie2.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity2/MagpieRunner2.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity3/Magpie3.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity3/MagpieRunner3.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity3/StringExplorer.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity4/Magpie4.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity4/MagpieRunner4.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity5/Magpie5.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity5/MagpieRunner5.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity1/Card.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity1/CardTester.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity2/Card.java" />
@@ -488,6 +234,17 @@
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity9/ElevensGUIRunner.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity10/Board.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity10/ThirteensBoard.java" />
+        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity2/MagpieRunner2.java" />
+        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity2/Magpie2.java" />
+        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity3/Magpie3.java" />
+        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity4/Magpie4.java" />
+        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity5/Magpie5.java" />
+        <option value="$PROJECT_DIR$/src/Labs/magpieLab/activity5/MagpieRunner5.java" />
+        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/DigitalPicture.java" />
+        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java" />
+        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureTester.java" />
+        <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" />
       </list>
     </option>
   </component>
@@ -577,7 +334,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -594,20 +350,18 @@
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
-              <item name="elevensLab" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -619,7 +373,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -652,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ElevensGUIRunner">
+  <component name="RunManager" selected="Application.ExerciseMethods">
     <configuration name="AllSameChar" type="Application" factoryName="Application" folderName="CH08" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch08.AllSameChar" />
       <module name="Computer Science A" />
@@ -874,6 +628,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExerciseMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercises.ExerciseMethods" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch11.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FeetToInches" type="Application" factoryName="Application" folderName="CH05">
       <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.FeetToInches" />
       <module name="Computer Science A" />
@@ -1018,19 +785,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagpieRunner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.magpieLab.MagpieCode.activity2.MagpieRunner2" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Labs.magpieLab.MagpieCode.activity2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MixedResults" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.MixedResults" />
       <module name="Computer Science A" />
@@ -1110,6 +864,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ACSL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Picture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.pictureLab.classes.Picture" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labs.pictureLab.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PictureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.pictureLab.classes.PictureTester" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labs.pictureLab.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1198,32 +978,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Exercises.TestCoins" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch10.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Exercises.TestLocation" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch10.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwinPrimes" type="Application" factoryName="Application" folderName="CH07" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch07.TwinPrimes" />
       <module name="Computer Science A" />
@@ -1295,19 +1049,19 @@
       <item itemvalue="Application.TwinPrimes" />
       <item itemvalue="Application.AllSameChar" />
       <item itemvalue="Application.DelAllWithin" />
-      <item itemvalue="Application.TestCoins" />
-      <item itemvalue="Application.TestLocation" />
-      <item itemvalue="Application.MagpieRunner2" />
       <item itemvalue="Application.StringDiff" />
       <item itemvalue="Application.ElevensGUIRunner" />
+      <item itemvalue="Application.PictureTester" />
+      <item itemvalue="Application.Picture" />
+      <item itemvalue="Application.ExerciseMethods" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerciseMethods" />
+        <item itemvalue="Application.PictureTester" />
+        <item itemvalue="Application.Picture" />
         <item itemvalue="Application.ElevensGUIRunner" />
         <item itemvalue="Application.StringDiff" />
-        <item itemvalue="Application.MagpieRunner2" />
-        <item itemvalue="Application.TestLocation" />
-        <item itemvalue="Application.TestCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -1398,7 +1152,11 @@
       <workItem from="1548915030013" duration="2962000" />
       <workItem from="1549289407074" duration="377000" />
       <workItem from="1549373680486" duration="3093000" />
-      <workItem from="1549459774565" duration="1138000" />
+      <workItem from="1549459774565" duration="2497000" />
+      <workItem from="1549548102186" duration="2781000" />
+      <workItem from="1549642454553" duration="138000" />
+      <workItem from="1549974830047" duration="1109000" />
+      <workItem from="1549982572716" duration="1634000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1645,11 +1403,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549376454545</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Simplified Labs file heirarchy">
+      <created>1549461056438</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1549461056438</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197476000" />
+    <option name="totallyTimeSpent" value="204497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1662,11 +1427,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.17533432" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.19985141" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
       <window_info id="TODO" order="5" weight="0.32935917" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32899022" />
@@ -1744,7 +1510,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Edited those last two" />
     <MESSAGE value="Finished BePrepared and BestFit programs" />
     <MESSAGE value="Commit craps" />
     <MESSAGE value="Game of Nim and Poem" />
@@ -1769,7 +1534,8 @@
     <MESSAGE value="Some basic setup stuff for chapter 11" />
     <MESSAGE value="Pushing original lab files" />
     <MESSAGE value="Pushing finished lab files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pushing finished lab files" />
+    <MESSAGE value="Simplified Labs file heirarchy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplified Labs file heirarchy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1788,92 +1554,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/MagpieRunner2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/resources/inherit.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/Magpie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/Magpie3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#3984#3985#0" expanded="true" />
-            <element signature="e#4029#4030#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/MagpieRunner3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/StringExplorer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/Magpie4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity4/MagpieRunner4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/Magpie5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity5/MagpieRunner5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/DigitalPicture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureTester.java" />
     <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/ColorChooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1909,13 +1590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureExplorer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1924,13 +1598,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
@@ -1947,34 +1614,6 @@
     <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/rightArrow.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity2/Magpie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity2/MagpieRunner2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity3/Magpie3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity3/MagpieRunner3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1989,28 +1628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity4/Magpie4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity4/MagpieRunner4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity5/Magpie5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity5/MagpieRunner5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
@@ -2042,9 +1660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2143,6 +1758,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity2/MagpieRunner2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity2/Magpie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity3/Magpie3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity4/Magpie4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3280">
+          <caret line="209" column="5" selection-start-line="209" selection-start-column="5" selection-end-line="209" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity5/Magpie5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3632">
+          <caret line="232" column="6" selection-start-line="232" selection-start-column="6" selection-end-line="232" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/magpieLab/activity5/MagpieRunner5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/temple.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/DigitalPicture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="70" column="2" lean-forward="true" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/7inX95in.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/640x480.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/arch.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/collage.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/CumberlandIsland.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/femaleLionAndHall.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/images/gorge.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureTester.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
         </state>
       </provider>
     </entry>
