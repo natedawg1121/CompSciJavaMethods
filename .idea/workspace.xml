@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="Simplified Labs file heirarchy">
-      <change afterPath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" afterDir="false" />
+    <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/ArithmeticAssignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/ComputeThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/DemoFields.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/DoubleRound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/DoubleTrouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FindDOW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FromMeToYou.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FullName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/MixedResults.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/NameThatCelebrity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/PrintFace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/RadiusOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/SquareBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/TestBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Exercises/DoubleInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Exercises/RedCross.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Hello/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Hello/Greetings2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Hello/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/Banner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/HelloGraphics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/HelloGraphics2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/HelloGui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch03/Exercises/EasySound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch03/Exercises/Morning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch03/Syntax/MovingDisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/Balloon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/BalloonDraw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/BalloonPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel$BalloonButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel$ColorButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/BalloonDraw2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel$BalloonButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel$ColorButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/DrawingPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/FancyBalloon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/OvalBalloon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/RoundBalloon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/SquareBalloon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/Exercises/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/Exercises/BookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/DogsHumanAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/DoubleX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/FeetToInches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/GasMileage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/GivenABC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/IntSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/LunchTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/Rainbow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/Solutions/InflatableBalloon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch06/ComparisonMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +84,15 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="189" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="80" />
+          <entry key="project.closed" value="83" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.108" value="1" />
@@ -48,7 +112,7 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="2" />
-          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.34" value="5" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.36" value="1" />
@@ -57,6 +121,8 @@
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.49" value="2" />
           <entry key="project.open.time.5" value="9" />
@@ -68,7 +134,7 @@
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="85" />
+          <entry key="project.opened" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -77,7 +143,7 @@
           <entry key="class" value="15" />
           <entry key="gif" value="4" />
           <entry key="iml" value="2" />
-          <entry key="java" value="472" />
+          <entry key="java" value="477" />
           <entry key="jpg" value="8" />
           <entry key="pgm" value="11" />
           <entry key="txt" value="5" />
@@ -89,7 +155,7 @@
           <entry key="CLASS" value="15" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="23" />
-          <entry key="JAVA" value="469" />
+          <entry key="JAVA" value="474" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="7" />
@@ -99,15 +165,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="36058" />
-          <entry key="txt" value="816" />
+          <entry key="java" value="38560" />
+          <entry key="txt" value="836" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="35578" />
-          <entry key="PLAIN_TEXT" value="817" />
+          <entry key="JAVA" value="38080" />
+          <entry key="PLAIN_TEXT" value="837" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -118,11 +184,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#689#690#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="285">
+              <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,8 +276,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/Picture.java" />
-        <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/MagpieRunner2.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity2/Magpie2.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/Magpie3.java" />
         <option value="$PROJECT_DIR$/src/Labs/magpieLab/MagpieCode/activity3/MagpieRunner3.java" />
@@ -244,6 +324,8 @@
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureTester.java" />
         <option value="$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercises/BigIntFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" />
       </list>
     </option>
@@ -354,7 +436,10 @@
             </path>
             <path>
               <item name="Computer Science A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Computer Science A" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch11" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,11 +454,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/OSM2World-0.1.9-bin" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -406,7 +491,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExerciseMethods">
+  <component name="RunManager" selected="Application.TestExerciseMethods">
     <configuration name="AllSameChar" type="Application" factoryName="Application" folderName="CH08" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch08.AllSameChar" />
       <module name="Computer Science A" />
@@ -500,6 +585,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigIntFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercises.BigIntFibonacci" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch11.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -604,19 +702,6 @@
     <configuration name="DoubleX" type="Application" factoryName="Application" folderName="CH05">
       <option name="MAIN_CLASS_NAME" value="Ch05.Exercises.DoubleX" />
       <module name="Computer Science A" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElevensGUIRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.elevensLab.ElevensCode.ActivityStarterCode.Activity9.ElevensGUIRunner" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Labs.elevensLab.ElevensCode.ActivityStarterCode.Activity9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -945,19 +1030,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ACSL.StringDiff" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ACSL.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Take1_3" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06.Take1_3" />
       <module name="Computer Science A" />
@@ -974,6 +1046,19 @@
     <configuration name="TestBox" type="Application" factoryName="Application" folderName="CH00">
       <option name="MAIN_CLASS_NAME" value="Ch00.TestBox" />
       <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExerciseMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch11.Exercises.TestExerciseMethods" />
+      <module name="Computer Science A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch11.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1049,19 +1134,19 @@
       <item itemvalue="Application.TwinPrimes" />
       <item itemvalue="Application.AllSameChar" />
       <item itemvalue="Application.DelAllWithin" />
-      <item itemvalue="Application.StringDiff" />
-      <item itemvalue="Application.ElevensGUIRunner" />
       <item itemvalue="Application.PictureTester" />
       <item itemvalue="Application.Picture" />
       <item itemvalue="Application.ExerciseMethods" />
+      <item itemvalue="Application.TestExerciseMethods" />
+      <item itemvalue="Application.BigIntFibonacci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestExerciseMethods" />
+        <item itemvalue="Application.BigIntFibonacci" />
         <item itemvalue="Application.ExerciseMethods" />
         <item itemvalue="Application.PictureTester" />
         <item itemvalue="Application.Picture" />
-        <item itemvalue="Application.ElevensGUIRunner" />
-        <item itemvalue="Application.StringDiff" />
       </list>
     </recent_temporary>
   </component>
@@ -1156,7 +1241,10 @@
       <workItem from="1549548102186" duration="2781000" />
       <workItem from="1549642454553" duration="138000" />
       <workItem from="1549974830047" duration="1109000" />
-      <workItem from="1549982572716" duration="1634000" />
+      <workItem from="1549982572716" duration="2140000" />
+      <workItem from="1550067273608" duration="1050000" />
+      <workItem from="1550239592390" duration="5323000" />
+      <workItem from="1550585052327" duration="2436000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1410,11 +1498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549461056438</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Exercises 5 &amp; 6 done">
+      <created>1549999036838</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1549999036838</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204497000" />
+    <option name="totallyTimeSpent" value="213812000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1445,7 +1540,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" weight="0.36421725" />
+      <window_info active="true" anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.36421725" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1510,7 +1605,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finished BePrepared and BestFit programs" />
     <MESSAGE value="Commit craps" />
     <MESSAGE value="Game of Nim and Poem" />
     <MESSAGE value="Made Nim output clearer" />
@@ -1535,7 +1629,8 @@
     <MESSAGE value="Pushing original lab files" />
     <MESSAGE value="Pushing finished lab files" />
     <MESSAGE value="Simplified Labs file heirarchy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simplified Labs file heirarchy" />
+    <MESSAGE value="Exercises 5 &amp; 6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises 5 &amp; 6 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1554,28 +1649,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/pixLab/classes/PictureTester.java" />
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/ColorChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/FileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/ImageDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/IntArrayWorker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1851,17 +1924,46 @@
     <entry file="file://$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureTester.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch05/Exercises/GivenABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/Palindromes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="70" selection-end-column="9" />
+        <state relative-caret-position="494">
+          <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACSL/StringDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/BigIntFibonacci.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="285">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1905,7 +2007,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1923,6 +2025,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
