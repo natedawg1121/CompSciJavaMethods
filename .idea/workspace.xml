@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/ArithmeticAssignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/ComputeThis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/DemoFields.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/DoubleRound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/DoubleTrouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FindDOW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FromMeToYou.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/FullName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/MixedResults.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/NameThatCelebrity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/PrintFace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/RadiusOfCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/SquareBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch00/TestBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Exercises/DoubleInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Exercises/RedCross.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Hello/Greetings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Hello/Greetings2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/Hello/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/Banner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/HelloGraphics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/HelloGraphics2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch02/HelloGui/HelloGui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch03/Exercises/EasySound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch03/Exercises/Morning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch03/Syntax/MovingDisk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/Balloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/BalloonDraw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/BalloonPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel$BalloonButtonListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel$ColorButtonListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonDraw/ControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/BalloonDraw2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel$BalloonButtonListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel$ColorButtonListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/ControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/DrawingPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/FancyBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/OvalBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/RoundBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/BalloonsAllKinds/SquareBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/Exercises/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch04/Exercises/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/DogsHumanAge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/DoubleX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/FeetToInches.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/GasMileage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/GivenABC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/IntSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/LunchTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/Rainbow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch05/Exercises/Solutions/InflatableBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch06/ComparisonMethods.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -92,7 +32,7 @@
     <session id="-698845057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="83" />
+          <entry key="project.closed" value="84" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.108" value="1" />
@@ -128,13 +68,13 @@
           <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="88" />
+          <entry key="project.opened" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -165,15 +105,15 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="38560" />
-          <entry key="txt" value="836" />
+          <entry key="java" value="39056" />
+          <entry key="txt" value="908" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="38080" />
-          <entry key="PLAIN_TEXT" value="837" />
+          <entry key="JAVA" value="38576" />
+          <entry key="PLAIN_TEXT" value="909" />
           <entry key="Scratch" value="480" />
         </counts>
       </usages-collector>
@@ -188,8 +128,12 @@
         <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding>
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
                 <element signature="e#651#652#0" expanded="true" />
                 <element signature="e#689#690#0" expanded="true" />
               </folding>
@@ -200,10 +144,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+            <state relative-caret-position="1079">
+              <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2617#2647#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -416,6 +361,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -446,7 +392,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1244,7 +1189,8 @@
       <workItem from="1549982572716" duration="2140000" />
       <workItem from="1550067273608" duration="1050000" />
       <workItem from="1550239592390" duration="5323000" />
-      <workItem from="1550585052327" duration="2436000" />
+      <workItem from="1550585052327" duration="2640000" />
+      <workItem from="1550677007047" duration="3484000" />
     </task>
     <task id="LOCAL-00001" summary="Added spacing in ComparisonMethods">
       <created>1539696004590</created>
@@ -1505,11 +1451,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549999036838</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Changed SDK to 8 for ease reasons, finished exercises 11 &amp; 13">
+      <created>1550587635322</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1550587635322</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Changed SDK to 8 for ease reasons, finished exercises 11 &amp; 13">
+      <created>1550587664096</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1550587664096</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213812000" />
+    <option name="totallyTimeSpent" value="217500000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1527,12 +1487,12 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.19985141" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" weight="0.19985141" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
       <window_info id="TODO" order="5" weight="0.32935917" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3258786" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32747602" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007429" side_tool="true" weight="0.36421725" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32108626" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32838285" />
@@ -1540,7 +1500,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Ant Build" order="9" show_stripe_button="false" weight="0.24962063" />
-      <window_info active="true" anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" visible="true" weight="0.36421725" />
+      <window_info active="true" anchor="bottom" x="24" y="264" width="1318" height="199" id="Run" order="10" sideWeight="0.49925706" visible="true" weight="0.36421725" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Coverage" order="2" side_tool="true" weight="0.32928678" />
@@ -1605,7 +1565,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit craps" />
     <MESSAGE value="Game of Nim and Poem" />
     <MESSAGE value="Made Nim output clearer" />
     <MESSAGE value="Created recursive addition" />
@@ -1630,7 +1589,8 @@
     <MESSAGE value="Pushing finished lab files" />
     <MESSAGE value="Simplified Labs file heirarchy" />
     <MESSAGE value="Exercises 5 &amp; 6 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises 5 &amp; 6 done" />
+    <MESSAGE value="Changed SDK to 8 for ease reasons, finished exercises 11 &amp; 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed SDK to 8 for ease reasons, finished exercises 11 &amp; 13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1949,8 +1909,12 @@
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
             <element signature="e#651#652#0" expanded="true" />
             <element signature="e#689#690#0" expanded="true" />
           </folding>
@@ -1959,10 +1923,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        <state relative-caret-position="1079">
+          <caret line="143" column="1" lean-forward="true" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2617#2647#1" expanded="true" />
           </folding>
         </state>
       </provider>
