@@ -62,7 +62,7 @@ public class HumanPlayer
     // board "knows" how to translate raw pixel coordinates x, y
     //   into row, col on the board:
 
-    Location pos = board.getPos(e.getX(), e.getY());
+    Location pos = board.getPos(e.getX(), e.getY(), board);
     int row = pos.getRow();
     int col = pos.getCol();
 

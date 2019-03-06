@@ -113,11 +113,11 @@ public class SimplePicture implements DigitalPicture
  {
    if (copyPicture.fileName != null)
    {
-      this.fileName = new String(copyPicture.fileName);
+      this.fileName = copyPicture.fileName;
       this.extension = copyPicture.extension;
    }
    if (copyPicture.title != null)
-      this.title = new String(copyPicture.title);
+      this.title = copyPicture.title;
    if (copyPicture.bufferedImage != null)
    {
      this.bufferedImage = new BufferedImage(copyPicture.getWidth(),

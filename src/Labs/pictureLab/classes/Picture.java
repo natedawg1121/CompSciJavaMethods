@@ -130,7 +130,7 @@ public class Picture extends SimplePicture {
     {
       for (Pixel pixelObj : rowArray)
       {   
-        int avg = (int)((pixelObj.getRed() + pixelObj.getGreen() + pixelObj.getBlue()) / 3);
+        int avg = ((pixelObj.getRed() + pixelObj.getGreen() + pixelObj.getBlue()) / 3);
         pixelObj.setRed(avg);
         pixelObj.setBlue(avg);
         pixelObj.setGreen(avg);

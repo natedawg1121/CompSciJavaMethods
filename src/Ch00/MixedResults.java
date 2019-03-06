@@ -4,7 +4,7 @@ package Ch00;
 //Date Created = 08/20/2018
 //School = Loveland High School
 public class MixedResults {
-     public static void main(String args[]) {
+     public static void main(String[] args) {
           double d1 = 37.9;
           double d2 = 1004.128;
           int i1 = 12;

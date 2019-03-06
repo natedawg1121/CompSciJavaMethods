@@ -1,1 +1,1 @@
-package Ch05.Exercises; public class DoubleX { public static void main(String args[]) { outputRoundedInteger(-2.5); } public static void outputRoundedInteger(double x ) { if(x < 0) { System.out.println((int)Math.floor(x)); } else { System.out.println(x); } } }
+package Ch05.Exercises; public class DoubleX { public static void main(String[] args) { outputRoundedInteger(-2.5); } public static void outputRoundedInteger(double x ) { if(x < 0) { System.out.println((int)Math.floor(x)); } else { System.out.println(x); } } }

@@ -2,21 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d468f55-b5a4-4524-b3fa-4cba4178ddce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ACSL/Stretch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch11/DigitalReassembly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Computer Science A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Computer Science A.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/ACSL/DigitalReassembly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch11/Exercises/ExerciseMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Computer Science A/Ch11/Exercises/ExerciseMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Computer Science A/Ch11/Exercises/TestExerciseMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Computer Science A/Ch11/Exercises/TestExerciseMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ACSL/DigitalReassembly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ACSL/Stretch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ACSL/Stretch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/ArithmeticAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/ArithmeticAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/ComputeThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/ComputeThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/DemoFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/DemoFields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/DoubleTrouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/DoubleTrouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/FromMeToYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/FromMeToYou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/FullName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/FullName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/MixedResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/MixedResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/NameThatCelebrity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/NameThatCelebrity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/RadiusOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/RadiusOfCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/SquareBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/SquareBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch00/TestBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch00/TestBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05/Exercises/DoubleX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/Exercises/DoubleX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05/Exercises/LunchTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05/Exercises/LunchTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06/EnumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch09/ArrayOfSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/ArrayOfSubstrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/BoardPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/BoardPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/Chomp4by7Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/Chomp4by7Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/ChompGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/ChompGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch09/Chomp/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch09/Chomp/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch10/Exercises/TestCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch10/Exercises/TestCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch10/Exercises/TestLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch10/Exercises/TestLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch10/Rectangle/TestRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch10/Rectangle/TestRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch11/DigitalReassembly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch11/DigitalReassembly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/pictureLab/classes/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/pictureLab/classes/PictureExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/pictureLab/classes/SimplePicture.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="124" column="31" lean-forward="true" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+            <state relative-caret-position="92">
+              <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,7 +82,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>outp</find>
       <find>alpha</find>
       <find>prntOut</find>
       <find>hold</find>
@@ -98,6 +110,8 @@
       <find>game</find>
       <find>BoardPanel</find>
       <find>board</find>
+      <find>paint</find>
+      <find>paintComponent</find>
     </findStrings>
     <replaceStrings>
       <replace>prntOut</replace>
@@ -133,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity2/Card.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity2/Deck.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity3/Shuffler.java" />
         <option value="$PROJECT_DIR$/src/Labs/elevensLab/Activity4/Card.java" />
@@ -163,12 +176,10 @@
         <option value="$PROJECT_DIR$/src/Ch11/Exercises/TestExerciseMethods.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Exercises/ExerciseMethods.java" />
         <option value="$PROJECT_DIR$/src/ACSL/DigitalReassembly.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Chomp/BoardPanel.java" />
         <option value="$PROJECT_DIR$/src/ACSL/BoardPanel.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Location.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Grid.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Stretch/Chomp.java" />
-        <option value="$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Stretch/ChompGame.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Stretch/Chomp4by7Strategy.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Stretch/BoardPanel.java" />
@@ -183,6 +194,9 @@
         <option value="$PROJECT_DIR$/src/ACSL/Stretch/CharMatrix.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Stretch/Stretch.java" />
         <option value="$PROJECT_DIR$/src/Ch11/DigitalReassembly.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Chomp/HumanPlayer.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java" />
+        <option value="$PROJECT_DIR$/src/Ch09/Chomp/BoardPanel.java" />
         <option value="$PROJECT_DIR$/src/ACSL/Stretch.java" />
       </list>
     </option>
@@ -477,6 +491,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chomp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch09.Chomp.Chomp" />
+      <module name="Computer Science A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComparisonMethods" type="Application" factoryName="Application" folderName="CH06" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06.ComparisonMethods" />
       <module name="Computer Science A" />
@@ -581,19 +602,6 @@
     <configuration name="EncodedLetters" type="Application" factoryName="Application" folderName="ACSL">
       <option name="MAIN_CLASS_NAME" value="ACSL.EncodedLetters" />
       <module name="Computer Science A" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciseMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch11.Exercises.ExerciseMethods" />
-      <module name="Computer Science A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch11.Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -988,18 +996,18 @@
       <item itemvalue="Application.AllSameChar" />
       <item itemvalue="Application.DelAllWithin" />
       <item itemvalue="Application.BigIntFibonacci" />
-      <item itemvalue="Application.ExerciseMethods" />
       <item itemvalue="Application.TestExerciseMethods" />
       <item itemvalue="Application.Stretch" />
       <item itemvalue="Application.DigitalReassembly" />
+      <item itemvalue="Application.Chomp" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Stretch" />
+        <item itemvalue="Application.Chomp" />
         <item itemvalue="Application.DigitalReassembly" />
         <item itemvalue="Application.TestExerciseMethods" />
         <item itemvalue="Application.BigIntFibonacci" />
-        <item itemvalue="Application.ExerciseMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -1373,7 +1381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550587664096</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added Stretch program">
+      <created>1551838011680</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1551838011680</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1390,11 +1405,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Favorites" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" weight="0.19955324" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49835527" visible="true" weight="0.19955324" />
       <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.50164473" side_tool="true" weight="0.17958272" />
       <window_info id="TODO" order="5" weight="0.32911393" />
       <window_info id="Messages" order="6" weight="0.3209233" />
@@ -1487,7 +1503,6 @@
     <option name="myShow1" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Game of Nim and Poem" />
     <MESSAGE value="Made Nim output clearer" />
     <MESSAGE value="Created recursive addition" />
     <MESSAGE value="Did some early chapter 7 exercises" />
@@ -1512,7 +1527,8 @@
     <MESSAGE value="Simplified Labs file heirarchy" />
     <MESSAGE value="Exercises 5 &amp; 6 done" />
     <MESSAGE value="Changed SDK to 8 for ease reasons, finished exercises 11 &amp; 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed SDK to 8 for ease reasons, finished exercises 11 &amp; 13" />
+    <MESSAGE value="Added Stretch program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Stretch program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1531,55 +1547,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity7/ElevensBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/CardGameGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/Deck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/ElevensBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity9/ElevensGUIRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/elevensLab/Activity10/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -1724,32 +1691,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/BoardPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch/HumanPlayer.java" />
     <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch/EasySound.java" />
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch/Grid.java" />
     <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch/SmartSolver.java" />
     <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch/Location.java" />
@@ -1779,13 +1722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/CharMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1793,10 +1729,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/BoardPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Chomp4by7Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1233">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Chomp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/ChompGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/EasySound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/HumanPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch09/Chomp/CharMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ACSL/Stretch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="124" column="31" lean-forward="true" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+        <state relative-caret-position="92">
+          <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

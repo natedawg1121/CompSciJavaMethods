@@ -9,24 +9,25 @@ public class Chomp4by7Strategy implements Strategy
   // Represents a few winning Stretch positions for the second player
   // Each array is number of squares in row 0, 1, 2, 3
   //   (a missing element is 0)
-  private static int winPositions[][] =
-  {
-    {1},
-    {7,6}, {6,5}, {5,4}, {4,3}, {3,2}, {2,1},
-    {7,7,4}, {7,5,2}, {6,4,2}, {4,2,2},
-    {7,4,3}, {6,3,3}, {5,5,3},
-    {4,1,1,1}, {3,1,1},
-    {2,2,2,1},
-    {2,2,1}, {3,3,1,1},
-    {5,2,1,1},
-  };
+  private static int[][] winPositions =
+          {
+                  {1},
+                  {7, 6}, {6, 5}, {5, 4}, {4, 3}, {3, 2}, {2, 1},
+                  {7, 7, 4}, {7, 5, 2}, {6, 4, 2}, {4, 2, 2},
+                  {7, 4, 3}, {6, 3, 3}, {5, 5, 3},
+                  {4, 1, 1, 1}, {3, 1, 1},
+                  {2, 2, 2, 1},
+                  {2, 2, 1}, {3, 3, 1, 1},
+                  {5, 2, 1, 1},
+          };
 
   // Returns the best move for the current location
   public Location findBestMove(ChompGame game)
   {
     int rows = game.numRows(), cols = game.numCols(), r;
     int wLength, bLength, bestRow, bestCol;
-    int wSteps[], bSteps[];
+    int[] wSteps;
+    int[] bSteps;
 
     // Convert the current board location into the same form as
     // winPositions

@@ -15,7 +15,7 @@ public class Chomp extends JFrame
 {
   private ChompGame game;
   private JTextField display;
-  private Player players[];
+  private Player[] players;
   private int currentPlayer;
 
   public Chomp()
@@ -27,15 +27,13 @@ public class Chomp extends JFrame
     display.setEditable(false);
     c.add(display, BorderLayout.NORTH);
 
-    BoardPanel board = new BoardPanel();
+    BoardPanel board = new BoardPanel(240, 120);
     c.add(board, BorderLayout.CENTER);
 
     game = new ChompGame(board);
 
-    ComputerPlayer human = new ComputerPlayer(this, game, board);
-    human.setStrategy(new Chomp4by7Strategy());
-    ComputerPlayer computer = new ComputerPlayer(this, game, board);
-    computer.setStrategy(new Chomp4by7Strategy());
+    HumanPlayer human = new HumanPlayer(this, game, board);
+    HumanPlayer computer = new HumanPlayer(this, game, board);
 
     players = new Player[2];
     players[0] = human;
@@ -65,7 +63,7 @@ public class Chomp extends JFrame
   public static void main(String[] args)
   {
     Chomp window = new Chomp();
-    window.setTitle("Stretch");
+    window.setTitle("Chomp");
     window.setBounds(200, 200, 300, 225);
     window.setDefaultCloseOperation(EXIT_ON_CLOSE);
     window.setResizable(false);

@@ -21,7 +21,7 @@ public class DemoFields {
 		System.out.println(product);
 	}
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		a = -128;
 		someMethod(a, b);
 		System.out.println(Math.abs(a));

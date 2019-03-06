@@ -4,7 +4,7 @@ package Ch00;
 //Date Created = 08/16/2018
 //School = Loveland High School
 public class FromMeToYou {
-     public static void main(String args[]) {
+     public static void main(String[] args) {
           System.out.println("From: Bill Smith");
           System.out.println("Address: Dell Computer, Bldg 13");
           System.out.println("Date: April 12, 2005");

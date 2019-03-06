@@ -4,7 +4,7 @@ import java.util.*;
 
 public class DigitalReassembly {
 	private static int[] data = new int[50];
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Random rand = new Random();
 		// Generate random integer in range 1 to 50
 		int rand_int1 = rand.nextInt(50) + 1;

@@ -3,7 +3,7 @@ package Ch09;
 import java.util.*;
 
 public class ArrayOfSubstrings {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String[] b = {"phil's", "white", "shirt"};
         System.out.println(Arrays.deepToString(allOfDemArrayStyle(b)));
     }

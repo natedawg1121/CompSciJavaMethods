@@ -7,7 +7,7 @@ public class LunchTime {
 	public static boolean errorL = true;
 	public static int uhr, minut;
 	
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		while (errorL == true) {
 			errorL = false;
 			System.out.print("Input current hour: ");

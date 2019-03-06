@@ -1,7 +1,7 @@
 package Ch00;
 
 public class SquareBox extends Box {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Box obj2 = new Box();
 		System.out.println(obj2.toString());
 

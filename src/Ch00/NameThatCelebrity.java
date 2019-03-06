@@ -4,7 +4,7 @@ package Ch00;
 //Date Created = 08/20/2018
 //School = Loveland High School
 public class NameThatCelebrity {
-     public static void main(String args[]) {
+     public static void main(String[] args) {
           String s1 = "Allan Alda";
           String s2 = "John Wayne";
           String s3 = "Gregory Peck";

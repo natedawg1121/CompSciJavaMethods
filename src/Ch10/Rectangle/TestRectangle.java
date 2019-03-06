@@ -1,7 +1,7 @@
 package Ch10.Rectangle;
 
 public class TestRectangle {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Rectangle r1 = new Rectangle();
         Rectangle r2 = new Rectangle(7);
         Rectangle r3 = new Rectangle(3, 4);

@@ -3,7 +3,7 @@ package Ch10.Exercises;
 import java.util.Scanner;
 
 public class TestLocation {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner gib = new Scanner(System.in);
         System.out.print("Input loc1 row: ");
         int row1 = gib.nextInt();
