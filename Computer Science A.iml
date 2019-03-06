@@ -38,7 +38,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/jGRASPs" />
     </content>
     <content url="file://$MODULE_DIR$/src/Labs/pictureLab/pixLab/classes" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

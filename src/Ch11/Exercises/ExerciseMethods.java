@@ -138,7 +138,7 @@ class ExerciseMethods {
         );
 
         cottonEyedJoe = cottonEyedJoe.replaceAll("[?,]", "");
-        String arr[] = cottonEyedJoe.split(" ");
+        String[] arr = cottonEyedJoe.split(" ");
         testW = Arrays.asList(arr);
     }
 }

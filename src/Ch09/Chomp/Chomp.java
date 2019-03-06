@@ -65,7 +65,7 @@ public class Chomp extends JFrame
   public static void main(String[] args)
   {
     Chomp window = new Chomp();
-    window.setTitle("Chomp");
+    window.setTitle("Stretch");
     window.setBounds(200, 200, 300, 225);
     window.setDefaultCloseOperation(EXIT_ON_CLOSE);
     window.setResizable(false);

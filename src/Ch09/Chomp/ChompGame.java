@@ -1,7 +1,7 @@
 package Ch09.Chomp;
 
 /**
- * Implements a Chomp game
+ * Implements a Stretch game
  */
 
 public class ChompGame extends CharMatrix

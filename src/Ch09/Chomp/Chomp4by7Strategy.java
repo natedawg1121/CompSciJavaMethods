@@ -1,12 +1,12 @@
 package Ch09.Chomp;
 
 /**
- * Implements Chomp strategy for a 4 by 7 board
+ * Implements Stretch strategy for a 4 by 7 board
  */
 
 public class Chomp4by7Strategy implements Strategy
 {
-  // Represents a few winning Chomp positions for the second player
+  // Represents a few winning Stretch positions for the second player
   // Each array is number of squares in row 0, 1, 2, 3
   //   (a missing element is 0)
   private static int winPositions[][] =
