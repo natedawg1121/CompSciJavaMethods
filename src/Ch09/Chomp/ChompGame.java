@@ -12,6 +12,7 @@ public class ChompGame extends CharMatrix
   {
     super(board.numRows(), board.numCols(), 'x');
     this.board = board;
+    BoardPanel.updateCellDimensions(board);
     board.update(this);
   }
 

@@ -10,7 +10,8 @@ import java.awt.Dimension;
 import javax.swing.JPanel;
 
 public class BoardPanel extends JPanel {
-    private final int ROWS = 3, COLS = 6;   // board dimensions
+    private static final int ROWS = 3, COLS = 6;   // board dimensions
+    private static int cellWidth, cellHeight;
     private final Color chocolate = new Color(110, 70, 50);
 
     private int tentativeRow, tentativeCol, displayCount;
@@ -21,8 +22,10 @@ public class BoardPanel extends JPanel {
         setBackground(Color.LIGHT_GRAY);
     }
 
-    public BoardPanel(int width, int height) {
-        setPreferredSize(new Dimension(COLS * width, ROWS * height));
+    public BoardPanel(int cellW, int cellH) {
+        cellWidth = cellW;
+        cellHeight = cellH;
+        setPreferredSize(new Dimension(COLS * cellW, ROWS * cellH));
         setBackground(Color.LIGHT_GRAY);
     }
 
@@ -62,9 +65,14 @@ public class BoardPanel extends JPanel {
         repaint();
     }
 
+    public static void updateCellDimensions(BoardPanel bp) {
+        cellWidth = (bp.getWidth() / COLS);
+        cellHeight = (bp.getHeight() / ROWS);
+    }
+
     // Displays the board after a repaint request
     // (redefines the method of the base class)
-    public void paintComponent(Graphics g, BoardPanel p) {
+    public void paintComponent(Graphics g) {
         super.paintComponent(g);
 
         if (game == null)
@@ -81,16 +89,16 @@ public class BoardPanel extends JPanel {
                 else
                     color = chocolate;
                 g.setColor(color);
-                int x = c * (p.getWidth() / COLS);
-                int y = r * (p.getHeight() / ROWS);
-                g.fillRect(x, y, (p.getWidth() / COLS), (p.getHeight() / ROWS));
+                int x = c * cellWidth;
+                int y = r * cellHeight;
+                g.fillRect(x, y, cellWidth, cellHeight);
                 g.setColor(Color.BLACK);
-                g.drawRect(x, y, (p.getWidth() / COLS), (p.getHeight() / ROWS));
-                g.drawRect(x + 1, y + 1, (p.getWidth() / COLS) - 2, (p.getHeight() / ROWS) - 2);
+                g.drawRect(x, y, cellWidth, cellHeight);
+                g.drawRect(x + 1, y + 1, cellWidth - 2, cellHeight - 2);
                 if (r == 0 && c == 0) {
                     g.setColor(Color.YELLOW);
-                    g.drawLine(x + 3, y + 3, x + (p.getWidth() / COLS) - 6, y + (p.getHeight() / ROWS) - 6);
-                    g.drawLine(x + 3, y + (p.getWidth() / COLS) - 6, x + (p.getHeight() / ROWS) - 6, y + 3);
+                    g.drawLine(x + 3, y + 3, x + cellWidth - 6, y + cellHeight - 6);
+                    g.drawLine(x + 3, y + cellWidth - 6, x + cellHeight - 6, y + 3);
                 }
             }
         }

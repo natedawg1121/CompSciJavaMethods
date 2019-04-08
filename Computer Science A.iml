@@ -14,8 +14,6 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Ch11/IndexMaker" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch11/Shuffler" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch12" />
-      <excludeFolder url="file://$MODULE_DIR$/src/Ch13" />
-      <excludeFolder url="file://$MODULE_DIR$/src/Ch13/Exercises" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch14" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch15" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch16" />
@@ -30,7 +28,6 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Ch26" />
       <excludeFolder url="file://$MODULE_DIR$/src/Ch27" />
       <excludeFolder url="file://$MODULE_DIR$/src/EasyClasses" />
-      <excludeFolder url="file://$MODULE_DIR$/src/Labs/elevensLab" />
       <excludeFolder url="file://$MODULE_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity2" />
       <excludeFolder url="file://$MODULE_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity4" />
       <excludeFolder url="file://$MODULE_DIR$/src/Labs/elevensLab/ElevensCode/ActivityStarterCode/Activity7" />

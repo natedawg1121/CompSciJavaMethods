@@ -23,9 +23,8 @@ public class Stretch {
         gib.add(JOptionPane.showInputDialog("Enter number of columns: "));
         gib.add(JOptionPane.showInputDialog("Enter starting cell: "));
         gib.add(JOptionPane.showInputDialog("Enter number of blocked cells: "));
-        for (int i = 0; i < Integer.parseInt(gib.get(3)); i++) {
+        for (int i = 0; i < Integer.parseInt(gib.get(3)); i++)
             gibJr.add(JOptionPane.showInputDialog("Enter blocked cell " + (i + 1) + ": "));
-        }
     }
 
     private static void popInAGrid() {
@@ -37,11 +36,9 @@ public class Stretch {
         for (int i = 1; i <= rows * cols; i++) {
             grid[row - 1][col - 1] = i;
 
-            for (String knap : gibJr) {
-                if (Integer.parseInt(knap) == i) {
+            for (String knap : gibJr)
+                if (Integer.parseInt(knap) == i)
                     grid[row - 1][col - 1] = 0;
-                }
-            }
 
             col++;
 
@@ -65,18 +62,18 @@ public class Stretch {
             int nRow = ((nCell - nCell % cols) / cols) + 1;
             int nCol = (nCell % cols);
 
-            while (nCol != 0) {
+            while (nCol >= 1) {
                 if (nCol < cols - 2 && grid[InRow][InCol + 1] != 0 && grid[InRow][InCol + 2] != 0 && nextPiece == 1) {
                     aufWiedersehen.add("A");
                     System.out.print("A");
                     nextPiece++;
                     nCell += 3;
-                } else if (nRow < rows - 2 && grid[InRow + 1][InCol] != 0 && grid[InRow + 2][InCol] != 0 && nextPiece == 2) {
+                } else if (nRow < rows - 2 && grid[InRow + 1][InCol] != 0 && grid[InRow + 2][InCol] != 0 && nextPiece == 2 && !aufWiedersehen.get(aufWiedersehen.size() - 1).equals("UB")) {
                     aufWiedersehen.add("DB");
                     System.out.print("B");
                     nextPiece++;
                     nCell += 21;
-                } else if (nRow > 2 && grid[InRow - 1][InCol] != 0 && grid[InRow - 2][InCol] != 0 && nextPiece == 2) {
+                } else if (nRow > 2 && grid[InRow - 1][InCol] != 0 && grid[InRow - 2][InCol] != 0 && nextPiece == 2 && !aufWiedersehen.get(aufWiedersehen.size() - 1).equals("DB")) {
                     aufWiedersehen.add("UB");
                     System.out.print("B");
                     nextPiece++;
@@ -119,12 +116,12 @@ public class Stretch {
                     System.out.print("A");
                     nextPiece++;
                     nCell -= 3;
-                } else if (nRow < rows - 2 && grid[InRow + 1][InCol] != 0 && grid[InRow + 2][InCol] != 0 && nextPiece == 2) {
+                } else if (nRow < rows - 2 && grid[InRow + 1][InCol] != 0 && grid[InRow + 2][InCol] != 0 && nextPiece == 2 && !aufWiedersehen.get(aufWiedersehen.size() - 1).equals("UB")) {
                     aufWiedersehen.add("DB");
                     System.out.print("B");
                     nextPiece++;
                     nCell += 19;
-                } else if (nRow > 2 && grid[InRow - 1][InCol] != 0 && grid[InRow - 2][InCol] != 0 && nextPiece == 2) {
+                } else if (nRow > 2 && grid[InRow - 1][InCol] != 0 && grid[InRow - 2][InCol] != 0 && nextPiece == 2 && !aufWiedersehen.get(aufWiedersehen.size() - 1).equals("DB")) {
                     aufWiedersehen.add("UB");
                     System.out.print("B");
                     nextPiece++;

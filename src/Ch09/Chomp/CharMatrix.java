@@ -35,11 +35,9 @@ public class CharMatrix {
     }
 
     public void fillRect(int row0, int col0, int row1, int col1, char fill) {
-        for(int r = row0; r <= row1; ++r) {
-            for(int c = col0; c <= col1; ++c) {
+        for(int r = row0; r <= row1; ++r)
+            for(int c = col0; c <= col1; ++c)
                 this.setCharAt(r, c, fill);
-            }
-        }
     }
 
     public void clearRect(int row0, int col0, int row1, int col1) {
@@ -48,21 +46,17 @@ public class CharMatrix {
 
     public int countInRow(int row) {
         int count = 0;
-        for(int c = 0; c < this.numCols(); ++c) {
-            if (!this.isEmpty(row, c)) {
+        for(int c = 0; c < this.numCols(); ++c)
+            if (!this.isEmpty(row, c))
                 ++count;
-            }
-        }
         return count;
     }
 
     public int countInCol(int col) {
         int count = 0;
-        for(int r = 0; r < this.numRows(); ++r) {
-            if (!this.isEmpty(r, col)) {
+        for(int r = 0; r < this.numRows(); ++r)
+            if (!this.isEmpty(r, col))
                 ++count;
-            }
-        }
         return count;
     }
 }

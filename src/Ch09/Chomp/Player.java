@@ -4,23 +4,22 @@ package Ch09.Chomp;
  * A player in a game
  */
 
-public interface Player
-{
-  /**
-   * Returns a prompt to be displayed before
-   * the next move of this player
-   */
-  String getPrompt();
+public interface Player {
+    /**
+     * Returns a prompt to be displayed before
+     * the next move of this player
+     */
+    String getPrompt();
 
-  /**
-   * Returns a message to be displayed when
-   * this player has won
-   */
-  String getWinMessage();
+    /**
+     * Returns a message to be displayed when
+     * this player has won
+     */
+    String getWinMessage();
 
-  /**
-   * Initiates this player's next move
-   */
-  void makeMove();
+    /**
+     * Initiates this player's next move
+     */
+    void makeMove();
 }
 
